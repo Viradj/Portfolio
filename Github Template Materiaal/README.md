@@ -20,7 +20,7 @@
 # IMG
 
 
-![alt text](http://www.macdonaldandcompany.com/File.ashx?path=Root/Images/News/PI_Cyber_Sec.gif "Fast Data")
+![alt text](https://github.com/Viradj/Portfolio/blob/master/Github%20Template%20Materiaal/big_data-msoft-dribbble.gif?raw=true "Fast Data")
 
 
 
