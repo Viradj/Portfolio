@@ -1,6 +1,5 @@
 # Porfolio 
 
-Deze leeswijzer geeft een overzicht van de verschillend opdrachten die verdeeld zijn over mijn github pagina. 
 Voor een andere weergave ga naar: https://viradj.github.io/Portfolio/ 
 
 [Glossary](https://drive.google.com/open?id=1T6SjqoIwcnKSawCsKNcVKFhOjxyqTFTCHt-RJHc6fOY)
