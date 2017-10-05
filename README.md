@@ -1,6 +1,5 @@
 # Leeswijzer
 Deze leeswijzer geeft een overzicht van de verschillend opdrachten die verdeeld zijn over mijn github pagina. 
-
 Voor een andere weergave ga naar: https://viradj.github.io/Portfolio/ 
 
 
@@ -10,39 +9,33 @@ Voor een andere weergave ga naar: https://viradj.github.io/Portfolio/
 
 ### DataCamp
 Voor een overzicht van de progressie van DataCamp kunt u deze [link](https://github.com/Viradj/Portfolio/blob/master/Online%20Course%20Materiaal/DataCamp.md) gebruiken. 
-(link:https://github.com/Viradj/Portfolio/blob/master/Online%20Course%20Materiaal/DataCamp.md)
-
-
 
 ---------------------------------------------------------------------
 
-## Papers
+
+## Presentaties
+
+#### Alle presentaties
+
+| Week | Datum | Link |
+|----------|----------|--------|
+|Week 2|4 september 2017| [link](https://github.com/Viradj/Portfolio-ADS/blob/master/Presentatie/Sprint%201%20%5Bweek%202%5D%20(powerpoint%202)%20-%20EM_Fields.pdf) |
+|Week 9|3 november 2017| TBD|
+|Week 10|10 november 2017| TBD|
+|Week 15|11 december 2017| TBD|
+|Week 16|18 december 2017| TBD|
 
 
+### Presentatie week 2
 
+In week twee heb ik samen met Borin Enthoven de Sprint precentatie voor week 2 gehouden. 
+De focus van de precentatie lag bij het volgende:
+- Terugkoppeling van punten in precentatie 1 
+- Voortgang van het onderzoek
+- Rol verdeling
+- Toekomst doelen
 
---------------------------------------------------------------------
-## Precentaties
-
-#### Alle precentaties
-
-| Week | Datum |
-|-------|-------|
-|Week 2|4 september 2017|
-|Week 9|3 november 2017|
-|Week 10|10 november 2017|
-|Week 15|11 december 2017|
-|Week 16|18 december 2017|
-
-
-### Precentatie week 2
-
-Eerste Precentatie is gegeven op vrijdag ../../.... (week 2), dit was tevens het einde van de eerste Sprint.
-
-
-
-
-
+[_powerpoint week 2_](https://github.com/Viradj/Portfolio-ADS/blob/master/Precentatie/Sprint%201%20%5Bweek%202%5D%20(powerpoint%202)%20-%20EM_Fields.pdf)
 
 
 
