@@ -1,6 +1,0 @@
-Welke dataset is gebruikt om tiny yolo te trainen
-
-Ook welke ground truth is er en wat is de structuur van de ground truth.
-
-Aangeleverde document: 
-https://drive.google.com/open?id=1L6nBC2vJS8agwTbxwmjD5wNawMMyjdkUMtXPywSOS98 
