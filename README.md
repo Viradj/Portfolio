@@ -1,16 +1,37 @@
-# Leeswijzer
+# Porfolio 
+
 Deze leeswijzer geeft een overzicht van de verschillend opdrachten die verdeeld zijn over mijn github pagina. 
 Voor een andere weergave ga naar: https://viradj.github.io/Portfolio/ 
 
+[Glossary](https://drive.google.com/open?id=1T6SjqoIwcnKSawCsKNcVKFhOjxyqTFTCHt-RJHc6fOY)
+
+-------------------------------
+
+### Table of Content
+
+- Online Course Materiaal
+- Presentaties
+- Scrum taken & Tickets
+- Workshop opdrachten
+- EM_Fields
 
 --------------------------------------------------------------------
+
+
+
 
 ## Online Course Materiaal
 
 ### DataCamp
 Voor een overzicht van de progressie van DataCamp kunt u deze [link](https://github.com/Viradj/Portfolio/blob/master/Online%20Course%20Materiaal/DataCamp.md) gebruiken. 
 
+
+###### [_/Online Course Materiaal_](https://github.com/Viradj/Portfolio-ADS/tree/master/Online%20Course%20Materiaal)
+
 ---------------------------------------------------------------------
+
+
+
 
 
 ## Presentaties
@@ -38,12 +59,12 @@ De focus van de precentatie lag bij het volgende:
 [_powerpoint week 2_](https://github.com/Viradj/Portfolio-ADS/blob/master/Precentatie/Sprint%201%20%5Bweek%202%5D%20(powerpoint%202)%20-%20EM_Fields.pdf)
 
 
-
+###### [_/presentatie](https://github.com/Viradj/Portfolio-ADS/tree/master/Presentatie)
 
 -----------------------------------------------------------------------------------
 
 
-## Scrum taken & Tickets
+## Scrum taken & tickets
 (dit zijn alleen mijn tickets van URBINN) 
 
 
@@ -56,7 +77,7 @@ De focus van de precentatie lag bij het volgende:
 
 
 
-
+###### [_/Scrum taken & tickets](https://github.com/Viradj/Portfolio-ADS/tree/master/Scrum%20taken%20%26%20Tickets)
 
 ------------------------------------------------------------------------------------------
 
@@ -65,10 +86,18 @@ De focus van de precentatie lag bij het volgende:
 Volgens de planning starten de Workshop opdrachten vanaf week 8
 
 
+
+
 ---------------------------------------------------------------------------------------------
 
 
 ## EM_Fields
+
+TBD
+
+Overzicht van [EM_Fields](https://github.com/Viradj/Portfolio-ADS/blob/master/EM-Fields/README.md) 
+
+_link to overview: [link](https://github.com/Viradj/Portfolio-ADS/tree/master/EM-Fields)_
 
 
 
