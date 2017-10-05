@@ -4,19 +4,24 @@ Deze leeswijzer geeft een overzicht van de verschillend opdrachten die verdeeld 
 Voor een andere weergave ga naar: https://viradj.github.io/Portfolio/ 
 
 
-
+--------------------------------------------------------------------
 
 ## Online Course Materiaal
 
+### DataCamp
+Voor een overzicht van de progressie van DataCamp kunt u deze [link](https://github.com/Viradj/Portfolio/blob/master/Online%20Course%20Materiaal/DataCamp.md) gebruiken. 
+(link:https://github.com/Viradj/Portfolio/blob/master/Online%20Course%20Materiaal/DataCamp.md)
 
 
+
+---------------------------------------------------------------------
 
 ## Papers
 
 
 
 
-
+--------------------------------------------------------------------
 ## Precentaties
 
 #### Alle precentaties
@@ -42,6 +47,7 @@ Eerste Precentatie is gegeven op vrijdag ../../.... (week 2), dit was tevens het
 
 
 
+-----------------------------------------------------------------------------------
 
 
 ## Scrum taken & Tickets
@@ -56,10 +62,15 @@ Eerste Precentatie is gegeven op vrijdag ../../.... (week 2), dit was tevens het
 
 
 
+
+------------------------------------------------------------------------------------------
+
 ## Workshop opdrachten
 
 Volgens de planning starten de Workshop opdrachten vanaf week 8
 
+
+---------------------------------------------------------------------------------------------
 
 
 ## EM_Fields
