@@ -1,6 +1,6 @@
 # Porfolio 
 
-Voor een andere weergave ga naar: https://viradj.github.io/Portfolio/ 
+Voor een andere weergave ga naar: https://viradj.github.io/Portfolio-ADS/
 
 [Glossary](https://drive.google.com/open?id=1T6SjqoIwcnKSawCsKNcVKFhOjxyqTFTCHt-RJHc6fOY)
 
