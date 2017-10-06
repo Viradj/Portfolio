@@ -1,10 +1,10 @@
-# Precentatie
+# Presentatie
 
 #### Alle presentaties
 
 | Week | Datum | Link |
 |----------|----------|--------|
-|Week 2|4 september 2017| [link](https://github.com/Viradj/Portfolio-ADS/blob/master/Presentatie/Sprint%201%20%5Bweek%202%5D%20(powerpoint%202)%20-%20EM_Fields.pdf) |
+|Week 2|4 september 2017| [link](/Presentatie/Sprint%201%20%5Bweek%202%5D%20(powerpoint%202)%20-%20EM_Fields.pdf) |
 |Week 9|3 november 2017| TBD|
 |Week 10|10 november 2017| TBD|
 |Week 15|11 december 2017| TBD|
