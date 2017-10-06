@@ -1,6 +1,6 @@
 # Portfolio 
 
-Voor een andere weergave ga naar: https://viradj.github.io/Portfolio-ADS/
+Voor een andere weergave ga naar: ~~https://viradj.github.io/Portfolio-ADS/~~ (!!! Deze link werkt op het moment niet ivm een fout in de master)
 
 [Glossary](https://drive.google.com/open?id=1T6SjqoIwcnKSawCsKNcVKFhOjxyqTFTCHt-RJHc6fOY): Dit is een overzicht van een aantal afkortingen die gebruikt worden door dit Portfolio.
 
@@ -12,7 +12,10 @@ Voor een andere weergave ga naar: https://viradj.github.io/Portfolio-ADS/
 - Presentaties
 - Scrum taken & Tickets
 - Workshop opdrachten
+- Aantekeningen
+- Zelfstandige oefenprojecten
 - EM_Fields
+
 
 --------------------------------------------------------------------
 
@@ -64,7 +67,7 @@ Voor een overzicht van de progressie van DataCamp kunt u deze [link](https://git
 
 
 
-###### [_/Scrum taken & tickets](/Scrum%20taken%20%26%20Tickets)
+###### [_/Scrum taken & tickets_](/Scrum%20taken%20%26%20Tickets)
 
 ------------------------------------------------------------------------------------------
 
@@ -74,20 +77,46 @@ Volgens de planning starten de Workshop opdrachten vanaf week 8
 
 
 
-###### [_/Workshop opdrachten](/Workshop%20opdrachten)
+###### [_/Workshop opdrachten_](/Workshop%20opdrachten)
 ---------------------------------------------------------------------------------------------
 
+
+## Aantekeningen
+
+TBD
+
+
+
+
+-------------------------------------------------------------------------------------------
+
+## Zelfstandige oefenprojecten
+
+|Project | Link |
+|--------|------|
+|Webscraper|[link](/Zelfstandige%20oefenprojecten/Webscrape)|
+
+
+
+
+
+###### [_Zelfstandig oefenprojecten_](/Zelfstandige%20oefenprojecten)
+
+
+
+
+-----------------------------------------------------------------------------------------------
 
 ## EM_Fields
 
 TBD
 
-Overzicht van [EM_Fields](https://github.com/Viradj/Portfolio-ADS/blob/master/EM-Fields/README.md) 
+Overzicht van [EM_Fields](/EM-Fields) 
 
 ###### [_/EM_Fields_](EM-Fields)
 
 
-
+-----------------------------------------------------------------------------------------------
 
 
 
