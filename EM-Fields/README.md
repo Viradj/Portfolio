@@ -13,7 +13,7 @@ TBD
 
 ## Precentaties
 
-TBD
+In de tweede week van het project heb ik samen met Boris Enthoven een presentatie gehouden: [link](Presentatie/Sprint%201%20%5Bweek%202%5D%20(powerpoint%202)%20-%20EM_Fields.pdf)
 
 ## Eerste opzet
 
