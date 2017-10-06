@@ -13,15 +13,21 @@ TBD
 
 ## Precentaties
 
-In de tweede week van het project heb ik samen met Boris Enthoven een presentatie gehouden: [link](Presentatie/Sprint%201%20%5Bweek%202%5D%20(powerpoint%202)%20-%20EM_Fields.pdf)
+In de tweede week van de minor heb ik samen met Boris Enthoven een presentatie gehouden: [link](/Presentatie/Week%202/Sprint%201%20%5Bweek%202%5D%20(powerpoint%202)%20-%20EM_Fields.pdf)
 
 ## Eerste opzet
 
 TBD
+Hier volgd nog een overzicht van de projectopzet die mijn groeps genoten en ik hebben gemaakt. 
 
 ## Intersante doucmenten 
 
-Precentie lijst
+
+Om de afwezigheid van teamleaden bij te houden hebben we op 11 september een precentielijst gemaakt.  
+
+[Precentie lijst](/presentielijst%20lijst.pdff)
+
+[Precentie lijst Excel](/presentielijst%20lijst.xlsx)
 
 TBD
 
