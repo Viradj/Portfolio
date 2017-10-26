@@ -1,6 +1,6 @@
 # Portfolio 
 
-Voor een andere weergave ga naar: ~~https://viradj.github.io/Portfolio-ADS/~~ (!!! Deze link werkt op het moment niet ivm een fout in de master)
+Voor een andere weergave ga naar:https://viradj.github.io/Portfolio-ADS/ 
 
 [Glossary](https://drive.google.com/open?id=1T6SjqoIwcnKSawCsKNcVKFhOjxyqTFTCHt-RJHc6fOY): Dit is een overzicht van een aantal afkortingen die gebruikt worden door dit Portfolio.
 
@@ -14,6 +14,8 @@ Voor een andere weergave ga naar: ~~https://viradj.github.io/Portfolio-ADS/~~ (!
 - Workshop opdrachten
 - Aantekeningen
 - Zelfstandige oefenprojecten
+- Weekoverzicht
+- Reflectie
 - EM_Fields
 
 
@@ -103,7 +105,25 @@ TBD
 ###### [_Zelfstandig oefenprojecten_](/Zelfstandige%20oefenprojecten)
 
 
+---------------------------------------------------------------------------------------------
 
+## Weekoverzicht 
+
+TBD
+
+
+
+###### [_Weekoverzicht_](/Week%20overzicht)
+
+----------------------------------------------------------------------------------------------
+
+## Reflectie
+
+TBD
+
+
+
+###### [_Reflectie_](/Reflectie.md)
 
 -----------------------------------------------------------------------------------------------
 
