@@ -6,4 +6,12 @@ Waffle maakt van elke niuewe taak een Issue die ook sub onderdelen kan hebben, d
 Dit is een overzicht van alle Issues waar ik aan heb gewerkt met uitleg.
 
 ### Issue 55: Object detection appers lezen
-Voor deze Issue heb ik verschillende papers gelezen. 
+Voor deze Issue heb ik verschillende papers gelezen. Over Object detectie zoals:
+- ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras | Link 
+Deze paper gaat over hoe ORB-SLAM werkt.
+- ....
+
+TBD
+
+
+### Issue 
