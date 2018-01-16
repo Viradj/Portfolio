@@ -28,3 +28,6 @@ De presentatie kan [hier](...) en [hier](...) gevonden worden. Voor de blog kan 
 Het doel van deze ticket was het omzetten van de floats naar meters in ORB-SLAM. 
 
 
+### Issue 141
+
+`ffmpeg -framerate 60 -i left%03d.png -s:v 1280x720 -c:v libx264 \-profile:v high -crf 20 -pix_fmt yuv420p 01_route_01_opname_01.mp4`
