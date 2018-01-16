@@ -93,7 +93,13 @@ De Issue waar de Delft Run door de algoritmes moeten gehaald worden zijn gedropt
 
 # Calling Bullshit opdrachten
 
-De voorbereiden opdrachten
+Voor Calling Bullshit heb ik deze opdracht ingeleverd na de workshop als eindopdracht: [link](/Workshop opdrachten/Calling_Bullshit/Bullshit_opdracht.pdf)
+
+
+
+# Jupyter notebooks 
+
+
 
 
 
