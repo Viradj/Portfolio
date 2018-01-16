@@ -31,3 +31,5 @@ Het doel van deze ticket was het omzetten van de floats naar meters in ORB-SLAM.
 ### Issue 141
 
 `ffmpeg -framerate 60 -i left%03d.png -s:v 1280x720 -c:v libx264 \-profile:v high -crf 20 -pix_fmt yuv420p 01_route_01_opname_01.mp4`
+
+`ffmpeg -r 60 -s 1280x720 -i %06d.png -vcodec libx264 -crf 15 ../03_route_03_opname_03.mp4` 
