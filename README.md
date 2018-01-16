@@ -61,16 +61,23 @@ Voor een overzicht van de progressie van Coursera kunt u deze [TBD] gebruiken.
 ## Scrum taken & tickets
 (dit zijn alleen mijn tickets van URBINN) 
 
-
-
 | Issue nummer | Issue Discription | Link |
 | -------------|--------------|------|
 | Issue 55 | Object detection papers lezen | TBD |
-| Issue 62     | aanpakken die objecten herkennen op basis van photometric differences in stereo images  |[link](/Scrum%20taken%20%26%20Tickets/Issue%2062%20-%20aanpakken%20die%20objecten%20herkennen%20op%20basis%20van%20photometric%20differences%20in%20stereo%20images/Issue%2062%20-%20photometric%20differen.pdf)      |
-| Issue 67     | Tiny Yolo dataset uitzoeken  |[link](/Scrum%20taken%20%26%20Tickets/Issue%2067%20-%20Tiny%20Yolo%20dataset%20uitzoeken/Issue%2067%20-%20Tiny%20YOLO%20datasets%20.pdf)|
-|  |  |
-|  |  |
+| Issue 62     | aanpakken die objecten herkennen op basis van photometric differences in stereo images  |   |
+| Issue 67     | Tiny Yolo dataset uitzoeken  |  |
+| Issue 77 | Presentatie maken + blog updaten  |
+| Issue 79 | ORB coordinaten converteren |  |
+| Issue 80 | ORB output uitbreiden met keyframe coordinaten |  |
+| Issue 81 | Literatuur scan: filteren slam met object detectie|  | 
+| Issue 82 | yolo training data verzamelen |  |
 | Issue 86 | Ground truth nieuwe trainingsdata labelen | OnHold  |
+| Issue 94 | Dieptebeeld genereren slinger |  | 
+| Issue 99 | LIACS gebruiken voor conversie |  |
+| Issue 100 | Opnamen slinger met kruisjes op grond |  |
+| Issue 103 | Beeldmateriaal van slinger en rugzak omzetten voor orb slam 2 |  | 
+| Issue 104 | Opnemen beeldmateriaal van ovaal en buiten |  |
+| Issue 114 | Plan maken opnames Delft|  |
 | Issue 120 | RGB naar Hue (HSV) experiment |  |
 | Issue 141 | Selecteren best run delft |  |
 | Issue 142 | Run URB over dataset delft #141 | OnHold  |
@@ -79,6 +86,8 @@ Voor een overzicht van de progressie van Coursera kunt u deze [TBD] gebruiken.
 | Issue 152 | 1. Introduction |  |
 | Issue 153 | 2. Related Work |  |
 | Issue 146 | Analyseren URB foute sequences Kitti |   | 
+
+Klik op deze link voor een uitleg bij elke ticket met resultaat.
 
 
 De Issue waar de Delft Run door de algoritmes moeten gehaald worden zijn gedropt omdat deze moeite hebben met de delftdatasets. 
