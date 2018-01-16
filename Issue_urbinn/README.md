@@ -27,6 +27,62 @@ De presentatie kan [hier](...) en [hier](...) gevonden worden. Voor de blog kan 
 ### Issue 79 ORB coordinaten converteren
 Het doel van deze ticket was het omzetten van de floats naar meters in ORB-SLAM. 
 
+### Issue 80 ORB output uitbreiden met keyframe coordinaten	
+
+
+### Issue 81 Literatuur scan: filteren slam met object detectie	
+
+
+### Issue 82 yolo training data verzamelen
+
+
+
+### Issue 86 Ground truth nieuwe trainingsdata labelen	
+
+
+
+### Issue 94 Dieptebeeld genereren slinger	
+
+
+
+### Issue 99 LIACS gebruiken voor conversie	
+Omdat we nog geen GPU hadden om de SVO-files van de ZED-Camera om te zetten naar PNG-files voor YOLO en ORB. Hiervoor zouden gebruik maken van de Tesla GPU van de Server van Leiden. Maar dit ging niet door omdat we een paar dagen na het aanmaken van deze ticket een GPU kregen in de Server van HHS. 
+
+### Issue 100 Opnamen slinger met kruisjes op grond	
+
+
+
+### Issue 103 Beeldmateriaal van slinger en rugzak omzetten voor orb slam 2	
+
+
+### Issue 104 Opnemen beeldmateriaal van ovaal en buiten	
+
+
+
+### Issue 114 Opnemen beeldmateriaal van ovaal en buiten	
+
+
+
+
+### Issue 120 RGB naar Hue (HSV) experiment	
+Link naar code 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Issue 141
 

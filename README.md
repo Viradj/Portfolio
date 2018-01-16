@@ -89,6 +89,15 @@ Voor een overzicht van de progressie van Coursera kunt u deze [TBD] gebruiken.
 
 Klik op deze link voor een uitleg bij elke ticket met resultaat.
 
+### Un Assient Tickets
+Ik heb gewerkt aan sommige Tickets terwijl ik daar via Waffle niet ben geassient. Ook heb ik sommige taken gedaan terwijl daarvoor nooit een ticket is aangemaakt, voor deze taken neem ik ze hieronder op. 
+
+| Taak | Description | Link |
+|-------|----------|------------|
+|		|		   |			|
+
+
+
 
 De Issue waar de Delft Run door de algoritmes moeten gehaald worden zijn gedropt omdat deze moeite hebben met de delftdatasets. 
 
