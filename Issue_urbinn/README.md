@@ -68,20 +68,7 @@ Omdat we nog geen GPU hadden om de SVO-files van de ZED-Camera om te zetten naar
 Link naar code 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Issue 135
 
 
 ### Issue 141
@@ -89,3 +76,30 @@ Link naar code
 `ffmpeg -framerate 60 -i left%03d.png -s:v 1280x720 -c:v libx264 \-profile:v high -crf 20 -pix_fmt yuv420p 01_route_01_opname_01.mp4`
 
 `ffmpeg -r 60 -s 1280x720 -i %06d.png -vcodec libx264 -crf 15 ../03_route_03_opname_03.mp4` 
+
+
+
+### Issue 142
+
+
+
+### Issue 143
+
+
+
+### Issue 146
+
+
+
+### Issue 152
+
+
+
+### Issue 153
+
+
+
+### Issue 154
+
+
+

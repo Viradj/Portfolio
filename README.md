@@ -1,9 +1,5 @@
 # Portfolio 
 
-Voor een andere weergave ga naar:https://viradj.github.io/Portfolio-ADS/ 
-
-[Glossary](https://drive.google.com/open?id=1T6SjqoIwcnKSawCsKNcVKFhOjxyqTFTCHt-RJHc6fOY): Dit is een overzicht van een aantal afkortingen die gebruikt worden door dit Portfolio.
-
 -------------------------------
 
 ### Table of Content
@@ -18,26 +14,22 @@ Voor een andere weergave ga naar:https://viradj.github.io/Portfolio-ADS/
 - Reflectie
 - EM_Fields
 
-
---------------------------------------------------------------------
-
-
+------------------------------------------------
 
 ## Online Course Materiaal
 
-### DataCamp
-Voor een overzicht van de progressie van DataCamp kunt u deze [link](https://github.com/Viradj/Portfolio/blob/master/Online%20Course%20Materiaal/DataCamp.md) gebruiken. 
+Voor de minor heb ik twee verschillende Online Courses gedaan, namelijk Datacamp en Coursera. 
 
-### Coursera: 
-Voor een overzicht van de progressie van Coursera kunt u deze [TBD] gebruiken.  
+Voor mijn Datacamp course heb ik codeeropdrachten gedaan van kleine projecten van de basis van Python tot het leren van datascience libarys zoals numpy en pandas. 
+
+De course ik heb gevold op Coursera is die curses van Andrew Ng, waarin hij de basis van machine learning uitleg. 
+
+Bewijstukken voor deze kunnen [hier](Portfolio-ADS/Online_Course_Materiaal) gevonden worden.
+
 
 ###### [_/Online Course Materiaal_](/Online%20Course%20Materiaal)
 
----------------------------------------------------------------------
-
-
-
-
+---------------------------------------------------
 
 ## Presentaties
 
@@ -51,12 +43,8 @@ Voor een overzicht van de progressie van Coursera kunt u deze [TBD] gebruiken.
 |Week 15|11 december 2017| [link](/Presentatie/Week_15/Week_15-Presentatie.pdf)|
 |Week 16|18 december 2017| [link](/Presentatie/Week_16/Week_16-Presentatie.pdf)|
 
-
-
 ###### [_/presentatie_](/Presentatie)
-
------------------------------------------------------------------------------------
-
+----------------------------------------------------
 
 ## Scrum taken & tickets
 (dit zijn alleen mijn tickets van URBINN) 
@@ -109,13 +97,13 @@ De Issue waar de Delft Run door de algoritmes moeten gehaald worden zijn gedropt
 
 ## Workshop opdrachten
 
-# Calling Bullshit opdrachten
+### Calling Bullshit opdrachten
 
-Voor Calling Bullshit heb ik deze opdracht ingeleverd na de workshop als eindopdracht: [link](/Workshop opdrachten/Calling_Bullshit/Bullshit_opdracht.pdf)
+Voor Calling Bullshit heb ik deze opdracht ingeleverd na de workshop als eindopdracht: [link](/Workshop_opdrachten/Calling_Bullshit/Bullshit_opdracht.pdf)
 
 
 
-# Jupyter notebooks 
+### Jupyter notebooks 
 
 
 
@@ -127,10 +115,8 @@ Voor Calling Bullshit heb ik deze opdracht ingeleverd na de workshop als eindopd
 
 ## Aantekeningen
 
-TBD
 
-
-
+Tijdens de wiskunde lessen heb ik aantekeningen genomen: [link](Aantekeningen/Wiskunde/)
 
 -------------------------------------------------------------------------------------------
 
@@ -149,16 +135,6 @@ TBD
 
 ---------------------------------------------------------------------------------------------
 
-## Weekoverzicht 
-
-TBD
-
-
-
-###### [_Weekoverzicht_](/Week%20overzicht)
-
-
------------------------------------------------------------------------------------------------
 
 ## EM_Fields
 
@@ -169,7 +145,15 @@ Overzicht van [EM_Fields](/EM-Fields)
 ###### [_/EM_Fields_](EM-Fields)
 
 
------------------------------------------------------------------------------------------------
+-----------------------------------------------
+
+## Reflectie & Lessons Learned
+
+....
+
+
+
+
 
 
 
