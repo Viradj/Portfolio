@@ -1,1 +1,1 @@
-README
+n week negen heb ik samen met een projectgenoot de precentatie gehouden over de tegenslagen in het project. Het is helaas naarvoren gekomen dat URB met nieuwe opnames van de ZED-Camera geen goede resulaten opleverde. In de presenatie hebben we ook laten zien hoe we de BBox-tool hebben gebruikt om foto's te labelen. De BBox-tool is een bestaand stuk software dat is aangepast door een groepsgenoot om zelf foto's te labelen.

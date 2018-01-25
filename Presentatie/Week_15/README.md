@@ -1,0 +1,1 @@
+In deze week vijftien werden de opnames die met de ZED-Camera genomen waren besproken en de koppeling die tussen URB en YOLO zou komen. Ook werden de vooruitgangen met de trjactory evaluation gepresenteerd. Voor YOLO hebben laten zien welke resulaten we kregen met de getrainde dataset van KITTI. 

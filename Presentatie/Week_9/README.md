@@ -1,1 +1,1 @@
-Dit is de presentatie voor Week 9.
+In week negen heb ik samen met een projectgenoot de presentatie gehouden over de vooruitgang in yolo, op dat moment was yolo vergenoeg getraind om 9 verschillende klasses te herkennen en had een recall van 50%. Daarnaast introduceerde we als groep in deze precentatie het idee om poindclouds (uit de ZED-Camera) te gebruiken voor orb evaluatie. 

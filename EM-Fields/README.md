@@ -5,29 +5,19 @@
 Sommige mensen klagen over gevoeligheid voor electromagnetische velden (bijvoorbeeld magnetron, zendmasten, Wifi). Om dit te onderzoeken hebben vrijwilligers in Utrecht sensoren gedragen om de bootstelling aan electromagnetische velden te meten. Het blijkt echter dat de metingen bijzonder storingsgevoelig zijn, bijvoorbeeld doordat het lichaam tussen zender en sensor zit. Doel van dit project is te onderzoeken hoe nauwkeuriger kan worden bepaald wat de werkelijke blootstelling aan electromagnetische velden is.
 (source: kb47 github pagina 5 oktober 2017)
 
+Aan het begin van mijn minor heb ik gekozen om voor het project EM_Fields, echter bleek het na 3 weken dat de begeleidende docent van dit project niet meer het project kon begeleidien. Helaas was dit project daarom gestop en ben ik overgestaped naar het project van Urbinn. 
 
-## Week 1 - Week 3
+De start van dit project was lastig omdat vanaf de eerste dag we bijna geen contact hadden met onze begeleider en als snel bleek dat we informatie te kort kwamen om te werken. Hieronder zijn de laatste paar documenten die ik nog terug heb kunnen vinden van deze drie weken. 
 
-TBD
+Een presentielijst waarin werdt bijgehouden welke dagen iedereen er was en wanneer iemand gewoon niet kwam opdagen. [Precentie lijst Excel](/presentielijst%20lijst.xlsx)
+Deze hebben we helaas niet veel kunnen gebruiken omdat de dag na dat deze in werking werd genomen het project werd opgeheven. 
 
+In week twee heb ik samen met Borin Enthoven de Sprint precentatie voor week 2 gehouden. De focus van de precentatie lag bij het volgende:
 
-## Precentaties
+- Terugkoppeling van punten in precentatie 1
+- Voortgang van het onderzoek
+- Rol verdeling
+- Toekomst doelen
 
-In de tweede week van de minor heb ik samen met Boris Enthoven een presentatie gehouden: [link](/Presentatie/Week%202/Sprint%201%20%5Bweek%202%5D%20(powerpoint%202)%20-%20EM_Fields.pdf)
-
-## Eerste opzet
-
-TBD
-Hier volgd nog een overzicht van de projectopzet die mijn groeps genoten en ik hebben gemaakt. 
-
-## Intersante doucmenten 
-
-
-Om de afwezigheid van teamleaden bij te houden hebben we op 11 september een precentielijst gemaakt.  
-
-[Precentie lijst](/presentielijst%20lijst.pdff)
-
-[Precentie lijst Excel](/presentielijst%20lijst.xlsx)
-
-TBD
+Ook heb ik samen met mijn project groep onderzoek ons onderzoeks veld en zijn deze papers naar voren gekomen: [link](/Papers)
 

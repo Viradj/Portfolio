@@ -1,5 +1,7 @@
 # Portfolio 
 
+https://drive.google.com/open?id=0BwqKb57nYbXvdWdqSU1VazVLMGc 
+
 -------------------------------
 
 ### Table of Content
@@ -15,6 +17,12 @@
 - EM_Fields
 
 ------------------------------------------------
+
+## Urbinn Project intro
+
+De Betafactory, Accenda en het lectoraat Smart Sensor Systems zijn een jaar geleden project gestart om een duurzame zelfrijdende stadsauto te maken. Het doel van dit project wordt om camera beelden te gebruiken om vaste en bewegende obstakels te classificeren zodat deze informatie in een vervolgtraject kan worden gebruikt om het autonoom rijden te onderzoeken. (source: kb74 github pagina 5 okt 2017)
+
+-----------------------------------------------
 
 ## Online Course Materiaal
 
@@ -138,7 +146,14 @@ Tijdens de wiskunde lessen heb ik aantekeningen genomen: [link](Aantekeningen/Wi
 
 ## EM_Fields
 
-TBD
+Sommige mensen klagen over gevoeligheid voor electromagnetische velden (bijvoorbeeld magnetron, zendmasten, Wifi). Om dit te onderzoeken hebben vrijwilligers in Utrecht sensoren gedragen om de bootstelling aan electromagnetische velden te meten. Het blijkt echter dat de metingen bijzonder storingsgevoelig zijn, bijvoorbeeld doordat het lichaam tussen zender en sensor zit. Doel van dit project is te onderzoeken hoe nauwkeuriger kan worden bepaald wat de werkelijke blootstelling aan electromagnetische velden is.
+(source: kb47 github pagina 5 oktober 2017)
+
+Aan het begin van mijn minor heb ik gekozen om voor het project EM_Fields, echter bleek het na 3 weken dat de begeleidende docent van dit project niet meer het project kon begeleidien. Helaas was dit project daarom gestop en ben ik overgestaped naar het project van Urbinn. 
+
+Met deze [link](/EM-Fields) kunt u zien wat ik heb kunnen doen tijdens de opstart van dit project.
+
+
 
 Overzicht van [EM_Fields](/EM-Fields) 
 

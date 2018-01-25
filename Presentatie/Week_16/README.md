@@ -1,0 +1,1 @@
+In week 16 hebben mijn projectgenoot en ik de problemen gepreseneerd die we kregen met YOLO en URb op de dataset van Delft die werd genomen met de ZED-Camera. Hierin kwam helaas naar voren dat de opnames de slecht belicht waren voor de twee algorites die wel prositive resulaten hadden met de goed belichte en beter opgenomen KITTI-dataset. 
