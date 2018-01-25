@@ -25,11 +25,11 @@ In week 9 en 10 hadden een projectgenoot en ik de taak om de precentatie te make
 De presentatie kan [hier](...) en [hier](...) gevonden worden. Voor de blog kan [hier](https://kb74.github.io/urbinn/) gekeken worden onder Milestone 5.
 
 ### Issue 79 ORB coordinaten converteren
-Het doel van deze ticket was het omzetten van de floats naar meters in ORB-SLAM. 
+Het doel van deze ticket was het omzetten van de floats naar meters in ORB-SLAM. Bij deze issue heb ik meegekeken met de de andere projectgenoten en zochten we naar een oplossing. 
 
 
 ### Issue 80 ORB output uitbreiden met keyframe coordinaten	
-Het doel van deze 
+Bij deze issue heb ik meegekeken met de de andere projectgenoten en zochten we naar een oplossing.
 
 
 ```Op de slinger/KITTI dataset de gedetecteerde objecten proberen te herkennen. Verkennen welke algoritmes geschikt zijn voor het herkennen van objecten. Maak een split tussen een train/testset waarbij er niet wordt geleerd op de beelden die in de testset zitten. Bijvoorbeeld, leer op beelden van de 6e etage, test op beelden van de 5e etage.``` -- dit stuk van de milestone. 
@@ -49,12 +49,14 @@ Tijdens het literatuur ondezoek naar filteren van slam met object detectie zijn 
 
 
 
+
 ### Issue 82 yolo training data verzamelen
 
-
+Voor Yolo was het van belang om de goede datasets te vinden om het model te trainen. Hiervoor heb ik enkele datasets gevonden zoals [coco](http://cocodataset.org/#home), [imageNet](https://pjreddie.com/darknet/imagenet/) en [Pacal Voc](http://host.robots.ox.ac.uk/pascal/VOC/)
 
 ### Issue 86 Ground truth nieuwe trainingsdata labelen	
 
+Voor het trainen van YOLO is besloten om de KITTI_dataset te herlabelen met de toevoeging van onze eigen labels. Alle klasses die we hebben gelabed zijn in [deze](https://docs.google.com/spreadsheets/d/1B9jabEJgo_CQKnJTPorHLHq5gcTB_onDxKndBN_Dj7I/edit?usp=sharing) spreetsheet te vinden. Uiteindelijk heb ik 1000 foto's uit de KITTI 001 sequence gelabed met de [BBox-tool](https://github.com/urbinn/BBox-Label-Tool/tree/updated_version_multi_class_no_examples). De output data hiervan is te vinden in [deze link](https://github.com/urbinn/BBox-Label-Tool/tree/images_1001_2000), dit zijn uiteindelijk 1000 textbestanden met de cordinaten en label van alle opjecten in de foto waaraan het nummer corespondeerd. 
 
 
 ### Issue 94 Dieptebeeld genereren slinger	
