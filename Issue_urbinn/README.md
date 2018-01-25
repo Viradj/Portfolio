@@ -27,10 +27,26 @@ De presentatie kan [hier](...) en [hier](...) gevonden worden. Voor de blog kan 
 ### Issue 79 ORB coordinaten converteren
 Het doel van deze ticket was het omzetten van de floats naar meters in ORB-SLAM. 
 
+
 ### Issue 80 ORB output uitbreiden met keyframe coordinaten	
+Het doel van deze 
+
+
+```Op de slinger/KITTI dataset de gedetecteerde objecten proberen te herkennen. Verkennen welke algoritmes geschikt zijn voor het herkennen van objecten. Maak een split tussen een train/testset waarbij er niet wordt geleerd op de beelden die in de testset zitten. Bijvoorbeeld, leer op beelden van de 6e etage, test op beelden van de 5e etage.``` -- dit stuk van de milestone. 
+
+
+
+
 
 
 ### Issue 81 Literatuur scan: filteren slam met object detectie	
+
+Tijdens het literatuur ondezoek naar filteren van slam met object detectie zijn twee papers naar voren gekomen: 
+1.  Object Detection and Tracking in RGB-D SLAM via Hierarchical Feature Grouping
+2. Monocular SLAM Supported Object Recognition.
+
+[hier](https://drive.google.com/open?id=0B_afORSfPeRYdUJGdzVmd1R3aDg)
+
 
 
 ### Issue 82 yolo training data verzamelen

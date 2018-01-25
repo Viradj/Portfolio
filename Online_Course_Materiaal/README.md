@@ -1,16 +1,51 @@
 # Online Course Materiaal
 
-Binnen de minor ADS heb ik me bezig gehouden met de volgende online cursusen: 
-- DataCamp
-- Coursera
+oor de minor heb ik twee verschillende Online Courses gedaan, namelijk Datacamp en Coursera. 
 
-## Huidige status
 
-Per Cursus heb ik de huidige status genoteerd.
+### DataCamp
+Voor mijn Datacamp course heb ik codeeropdrachten gedaan van kleine projecten van de basis van Python tot het leren van datascience libarys zoals numpy en pandas. 
 
-|Cursus | Link | Status |
-|------|--------|-------|
-|DataCamp|[link](/DataCamp.md)| Compleet |
-|Coursera|[link](/Coursera.md)| Compleet |
+## Uitleg
+| State      | Uitleg
+|:------------:|:------------:|
+| Completed  | Opdracht afgerond binnen de gezette deadline
+| Late       |Opdracht afgerond maar buiten de gezette deadline
+| Missed    |Opdracht (nog) niet afgerond
+| In progress| bezig met de opdracht
+
+![alt text](/OCM-Screenshots/DataCamp_14-10-2017_screenshot.png)
+
+
+### Coursera
+De course ik heb gevold op Coursera is die curses van Andrew Ng, waarin hij de basis van machine learning uitleg. 
+
+
+
+#### Week 1
+![alt text](COU-Screenshots/Coursera_week1.png)
+
+#### Week 2
+![alt text](COU-Screenshots/Coursera_week2.png)
+
+#### Week 3
+![alt text](COU-Screenshots/Coursera_week3.png)
+
+
+#### Week 6
+![alt text](COU-Screenshots/Coursera_week6.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
