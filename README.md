@@ -1,7 +1,4 @@
 # Portfolio 
-
-https://drive.google.com/open?id=0BwqKb57nYbXvdWdqSU1VazVLMGc 
-
 -------------------------------
 
 ### Table of Content
@@ -57,51 +54,40 @@ Bewijstukken voor deze kunnen [hier](Portfolio-ADS/Online_Course_Materiaal) gevo
 ## Scrum taken & tickets
 (dit zijn alleen mijn tickets van URBINN) 
 
-| Issue nummer | Issue Discription | Link |
-| -------------|--------------|------|
-| Issue 55 | Object detection papers lezen | TBD |
-| Issue 62     | aanpakken die objecten herkennen op basis van photometric differences in stereo images  |   |
-| Issue 67     | Tiny Yolo dataset uitzoeken  |  |
-| Issue 77 | Presentatie maken + blog updaten  |
-| Issue 79 | ORB coordinaten converteren |  |
-| Issue 80 | ORB output uitbreiden met keyframe coordinaten |  |
-| Issue 81 | Literatuur scan: filteren slam met object detectie|  | 
-| Issue 82 | yolo training data verzamelen |  |
-| Issue 86 | Ground truth nieuwe trainingsdata labelen | OnHold  |
-| Issue 94 | Dieptebeeld genereren slinger |  | 
-| Issue 99 | LIACS gebruiken voor conversie |  |
-| Issue 100 | Opnamen slinger met kruisjes op grond |  |
-| Issue 103 | Beeldmateriaal van slinger en rugzak omzetten voor orb slam 2 |  | 
-| Issue 104 | Opnemen beeldmateriaal van ovaal en buiten |  |
-| Issue 114 | Plan maken opnames Delft|  |
-| Issue 120 | RGB naar Hue (HSV) experiment |  |
-| Issue 141 | Selecteren best run delft |  |
-| Issue 142 | Run URB over dataset delft #141 | OnHold  |
-| Issue 143 | Run YOLO over dataset delft #141 | OnHold  |
-| Issue 135 | Analyseren van Sequence 01 van de KITTI dataset |  |
-| Issue 152 | 1. Introduction |  |
-| Issue 153 | 2. Related Work |  |
-| Issue 146 | Analyseren URB foute sequences Kitti |   | 
+| Issue nummer | Issue Discription | 
+| -------------|--------------|
+| Issue 55 | Object detection papers lezen |
+| Issue 62 | aanpakken die objecten herkennen op basis van photometric differences in stereo images  |
+| Issue 67 | Tiny Yolo dataset uitzoeken|
+| Issue 77 | Presentatie maken + blog updaten|
+| Issue 79 | ORB coordinaten converteren |
+| Issue 80 | ORB output uitbreiden met keyframe coordinaten|
+| Issue 81 | Literatuur scan: filteren slam met object detectie|
+| Issue 82 | yolo training data verzamelen |
+| Issue 86 | Ground truth nieuwe trainingsdata labelen|
+| Issue 94 | Dieptebeeld genereren slinger |
+| Issue 99 | LIACS gebruiken voor conversie |
+| Issue 100 | Opnamen slinger met kruisjes op grond|
+| Issue 101 | Opnemen van beeldmateriaal in de hhs|
+| Issue 103 | Beeldmateriaal van slinger en rugzak omzetten voor orb slam 2 |
+| Issue 104 | Opnemen beeldmateriaal van ovaal en buiten |
+| Issue 114 | Plan maken opnames Delft|
+| Issue 120 | RGB naar Hue (HSV) experiment|
+| Issue 124 | Evaluatie handmatig nameten afstanden|
+| Issue 133 | Plan van Delft uitvoeren|
+| Issue 135 | Analyseren van Sequence 01 van de KITTI dataset|
+| Issue 141 | Selecteren best run delft|
+| Issue 142 | Run URB over dataset delft #141|
+| Issue 143 | Run YOLO over dataset delft #141|
+| Issue 146 | Analyseren URB foute sequences Kitti |
+| Issue 152 | 1. Introduction|
+| Issue 153 | 2. Related Work|
+| Issue 154 | 3. Design|
+| Issue 155 | 4. Experiment|
 
-Klik op deze link voor een uitleg bij elke ticket met resultaat.
+###### [_Issue_urbinn](/Issue_urbinn)
 
-### Un Assient Tickets
-Ik heb gewerkt aan sommige Tickets terwijl ik daar via Waffle niet ben geassient. Ook heb ik sommige taken gedaan terwijl daarvoor nooit een ticket is aangemaakt, voor deze taken neem ik ze hieronder op. 
-
-| Taak | Description | Link |
-|-------|----------|------------|
-|		|		   |			|
-
-
-
-
-De Issue waar de Delft Run door de algoritmes moeten gehaald worden zijn gedropt omdat deze moeite hebben met de delftdatasets. 
-
-
-
-###### [_/Scrum taken & tickets_](/Scrum%20taken%20%26%20Tickets)
-
-------------------------------------------------------------------------------------------
+-------------------------------------
 
 ## Workshop opdrachten
 
@@ -109,24 +95,14 @@ De Issue waar de Delft Run door de algoritmes moeten gehaald worden zijn gedropt
 
 Voor Calling Bullshit heb ik deze opdracht ingeleverd na de workshop als eindopdracht: [link](/Workshop_opdrachten/Calling_Bullshit/Bullshit_opdracht.pdf)
 
-
-
 ### Jupyter notebooks 
 
+Hier kunt u [Jupyter_ExploratoryData](Workshop_opdrachten/Jupyter_ExploratoryData) en [Spark](Workshop_opdrachten/Jupyternotebooks) opdrachten die gemaakt zijn in Juypterhub. 
 
 
-
-
-###### [_/Workshop opdrachten_](/Workshop%20opdrachten)
+###### [_/Workshop opdrachten_](/Workshop_opdrachten)
 ---------------------------------------------------------------------------------------------
 
-
-## Aantekeningen
-
-
-Tijdens de wiskunde lessen heb ik aantekeningen genomen: [link](Aantekeningen/Wiskunde/)
-
--------------------------------------------------------------------------------------------
 
 ## Zelfstandige oefenprojecten
 
@@ -138,11 +114,13 @@ Tijdens de wiskunde lessen heb ik aantekeningen genomen: [link](Aantekeningen/Wi
 
 
 
+
+
+
 ###### [_Zelfstandig oefenprojecten_](/Zelfstandige%20oefenprojecten)
 
 
----------------------------------------------------------------------------------------------
-
+----------------------------------
 
 ## EM_Fields
 
@@ -153,13 +131,9 @@ Aan het begin van mijn minor heb ik gekozen om voor het project EM_Fields, echte
 
 Met deze [link](/EM-Fields) kunt u zien wat ik heb kunnen doen tijdens de opstart van dit project.
 
-
-
 Overzicht van [EM_Fields](/EM-Fields) 
 
 ###### [_/EM_Fields_](EM-Fields)
-
-
 -----------------------------------------------
 
 ## Reflectie & Lessons Learned
