@@ -3,21 +3,21 @@
 
 ### Table of Content
 
+- Urbinn Project Intro
 - Online Course Materiaal
 - Presentaties
 - Scrum taken & Tickets
 - Workshop opdrachten
-- Aantekeningen
 - Zelfstandige oefenprojecten
-- Weekoverzicht
-- Reflectie
 - EM_Fields
 
 ------------------------------------------------
 
-## Urbinn Project intro
+## Urbinn Project Intro
 
 De Betafactory, Accenda en het lectoraat Smart Sensor Systems zijn een jaar geleden project gestart om een duurzame zelfrijdende stadsauto te maken. Het doel van dit project wordt om camera beelden te gebruiken om vaste en bewegende obstakels te classificeren zodat deze informatie in een vervolgtraject kan worden gebruikt om het autonoom rijden te onderzoeken. (source: kb74 github pagina 5 okt 2017)
+
+![alt text](/Img/urbinn_kb74_foto.png "Urbinn_Car_Render_1")
 
 -----------------------------------------------
 
@@ -29,16 +29,17 @@ Voor mijn Datacamp course heb ik codeeropdrachten gedaan van kleine projecten va
 
 De course ik heb gevold op Coursera is die curses van Andrew Ng, waarin hij de basis van machine learning uitleg. 
 
-Bewijstukken voor deze kunnen [hier](Portfolio-ADS/Online_Course_Materiaal) gevonden worden.
+Bewijstukken voor deze kunnen [hier](/Portfolio-ADS/Online_Course_Materiaal) gevonden worden.
 
 
 ###### [_/Online Course Materiaal_](/Online%20Course%20Materiaal)
-
 ---------------------------------------------------
 
 ## Presentaties
 
 #### Alle presentaties
+
+De uitleg voor alle presentaties kunnen [hier](/Presentaties) gevonden worden
 
 | Week | Datum | Link |
 |------|-------|------|
@@ -52,7 +53,9 @@ Bewijstukken voor deze kunnen [hier](Portfolio-ADS/Online_Course_Materiaal) gevo
 ----------------------------------------------------
 
 ## Scrum taken & tickets
-(dit zijn alleen mijn tickets van URBINN) 
+
+Voor elk van deze Issue heb ik een uitleg geschreven die [hier](/Issue_urbinn) gevonden kan worden. 
+
 
 | Issue nummer | Issue Discription | 
 | -------------|--------------|
@@ -85,7 +88,9 @@ Bewijstukken voor deze kunnen [hier](Portfolio-ADS/Online_Course_Materiaal) gevo
 | Issue 154 | 3. Design|
 | Issue 155 | 4. Experiment|
 
-###### [_Issue_urbinn](/Issue_urbinn)
+Dit is een lijst van alle Issues waar ik volgens de github aan geassined was. Hierbuiten heb ik ook andere mensen gelopen en gewerkt aan onderdelen van het project aan geen Issue op github was aangemaakt. 
+
+###### [/Issue_urbinn](/Issue_urbinn)
 
 -------------------------------------
 
@@ -100,7 +105,7 @@ Voor Calling Bullshit heb ik deze opdracht ingeleverd na de workshop als eindopd
 Hier kunt u [Jupyter_ExploratoryData](Workshop_opdrachten/Jupyter_ExploratoryData) en [Spark](Workshop_opdrachten/Jupyternotebooks) opdrachten die gemaakt zijn in Juypterhub. 
 
 
-###### [_/Workshop opdrachten_](/Workshop_opdrachten)
+###### [/Workshop opdrachten](/Workshop_opdrachten)
 ---------------------------------------------------------------------------------------------
 
 
@@ -116,8 +121,7 @@ Hier kunt u [Jupyter_ExploratoryData](Workshop_opdrachten/Jupyter_ExploratoryDat
 
 
 
-
-###### [_Zelfstandig oefenprojecten_](/Zelfstandige%20oefenprojecten)
+###### [Zelfstandig oefenprojecten](/Zelfstandige%20oefenprojecten)
 
 
 ----------------------------------
@@ -136,9 +140,7 @@ Overzicht van [EM_Fields](/EM-Fields)
 ###### [_/EM_Fields_](EM-Fields)
 -----------------------------------------------
 
-## Reflectie & Lessons Learned
 
-....
 
 
 
