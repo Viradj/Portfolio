@@ -1,6 +1,6 @@
 # Online Course Materiaal
 
-oor de minor heb ik twee verschillende Online Courses gedaan, namelijk Datacamp en Coursera. 
+Voor de minor heb ik twee verschillende Online Courses gedaan, namelijk Datacamp en Coursera. 
 
 
 ### DataCamp
@@ -14,8 +14,7 @@ Voor mijn Datacamp course heb ik codeeropdrachten gedaan van kleine projecten va
 | Missed    |Opdracht (nog) niet afgerond
 | In progress| bezig met de opdracht
 
-![alt text](OCM-Screenshots/DataCamp_14-10-2017_screenshot.png)
-
+![alt text](OCM-Screenshots/DataCamp_14-10-2017_screenshot.PNG)
 
 ### Coursera
 De course ik heb gevold op Coursera is die curses van Andrew Ng, waarin hij de basis van machine learning uitleg. 
