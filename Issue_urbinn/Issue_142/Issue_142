@@ -1,0 +1,45 @@
+We hebben geprobeerd om de opnames van delft op 15-12-2017 door urb (motion-only BA) te halen. Urb is zeer instabiel en we hebben geprobeerd om wat aan de framerates te wijzigen. We hebben tot nu toe 2 runs kunnen opslaan, maar de trajectories daarvan kloppen totaal niet. Er worden veel te weinig poses opgeslagen.
+
+Hieronder een overzicht van de resultaten:
+
+route-01-opname-01
+- elk frame: IndexError: pop from empty list
+- elk 6e frame: IndexError: pop from empty list
+- elk 60e frame: IndexError: pop from empty list
+- elk 120e frame: UnboundLocalError: local variable 'best_frame_point' referenced before assignment
+
+route-01-opname-02
+- elk frame: IndexError: pop from empty list
+- elk 6e frame: IndexError: pop from empty list
+- elk 60e frame: IndexError: pop from empty list
+- elk 120e frame: IndexError: pop from empty list
+
+route-01-opname-03
+- elk frame: IndexError: pop from empty list
+- elk 6e frame: IndexError: pop from empty list
+- elk 60e frame: IndexError: pop from empty list
+- elk 120e frame: IndexError: pop from empty list
+
+route-02-opname
+- elk frame: IndexError: pop from empty list
+- elk 6e frame: IndexError: pop from empty list
+- elk 60e frame: IndexError: pop from empty list
+- elk 120e frame: IndexError: pop from empty list
+
+route-03-opname-01
+- elk frame: IndexError: pop from empty list
+- elk 6e frame: IndexError: pop from empty list
+- elk 60e frame: IndexError: pop from empty list
+- elk 120e frame: succesvol door urb verwerkt, maar er zijn maar 5 keyframes gevonden
+
+route-03-opname-02
+- elk frame: IndexError: pop from empty list
+- elk 6e frame: IndexError: pop from empty list
+- elk 60e frame: succesvol door urb verwerkt, maar er zijn slechts 6 keyframes gevonden
+- elk 120e frame: succesvol door urb verwerkt, maar er zijn maar 5 keyframes gevonden
+
+route-03-opname-03
+- elk frame: urb doet er te lang over om dit te verwerken. Veel speed en pose foutmeldingen.
+- elk 6e frame: urb doet er te lang over om dit te verwerken. Veel speed en pose foutmeldingen.
+- elk 60e frame: IndexError: pop from empty list
+- elk 120e frame: IndexError: pop from empty list

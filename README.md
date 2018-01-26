@@ -73,16 +73,13 @@ Voor elk van deze Issue heb ik een uitleg geschreven die [hier](/Issue_urbinn) g
 | Issue 99 | LIACS gebruiken voor conversie |
 | Issue 100 | Opnamen slinger met kruisjes op grond|
 | Issue 101 | Opnemen van beeldmateriaal in de hhs|
-| Issue 103 | Beeldmateriaal van slinger en rugzak omzetten voor orb slam 2 |
 | Issue 104 | Opnemen beeldmateriaal van ovaal en buiten |
 | Issue 114 | Plan maken opnames Delft|
 | Issue 120 | RGB naar Hue (HSV) experiment|
 | Issue 124 | Evaluatie handmatig nameten afstanden|
 | Issue 133 | Plan van Delft uitvoeren|
-| Issue 135 | Analyseren van Sequence 01 van de KITTI dataset|
 | Issue 141 | Selecteren best run delft|
 | Issue 142 | Run URB over dataset delft #141|
-| Issue 143 | Run YOLO over dataset delft #141|
 | Issue 146 | Analyseren URB foute sequences Kitti |
 | Issue 152 | 1. Introduction|
 | Issue 153 | 2. Related Work|

@@ -7,14 +7,14 @@ oor de minor heb ik twee verschillende Online Courses gedaan, namelijk Datacamp 
 Voor mijn Datacamp course heb ik codeeropdrachten gedaan van kleine projecten van de basis van Python tot het leren van datascience libarys zoals numpy en pandas. 
 
 ## Uitleg
-| State      | Uitleg
+| Status     | Uitleg
 |:------------:|:------------:|
 | Completed  | Opdracht afgerond binnen de gezette deadline
 | Late       |Opdracht afgerond maar buiten de gezette deadline
 | Missed    |Opdracht (nog) niet afgerond
 | In progress| bezig met de opdracht
 
-![alt text](/OCM-Screenshots/DataCamp_14-10-2017_screenshot.png)
+![alt text](OCM-Screenshots/DataCamp_14-10-2017_screenshot.png)
 
 
 ### Coursera
