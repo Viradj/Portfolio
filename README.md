@@ -1,7 +1,9 @@
 # Portfolio 
 
-**Naam:** Viradj Ramlochan Tewarie 
+**Naam:** Viradj Ramlochan Tewarie
+
 **Studentnummer:** 14071088
+
 **Datum:** 26-01-2018
 
 Het project-team van Urbinn en ik hebben gezammelijk [deze paper](paper/landmark-filtering-techniques-for-semantic-mapping.pdf) geschreven.
@@ -23,7 +25,7 @@ Het project-team van Urbinn en ik hebben gezammelijk [deze paper](paper/landmark
 ## Urbinn Project Intro
 
 De Betafactory, Accenda en het lectoraat Smart Sensor Systems zijn een jaar geleden project gestart om een duurzame zelfrijdende stadsauto te maken. Het doel van dit project wordt om camera beelden te gebruiken om vaste en bewegende obstakels te classificeren zodat deze informatie in een vervolgtraject kan worden gebruikt om het autonoom rijden te onderzoeken. (source: kb74 github pagina 5 okt 2017)
-http://urbinn.nl
+(http://urbinn.nl)
 
 ![alt text](/Img/urbinn_kb74_foto.png "Urbinn_Car_Render_1")
 
@@ -35,35 +37,35 @@ Voor de minor heb ik twee verschillende Online Courses gedaan, namelijk Datacamp
 
 Bewijstukken voor deze kunnen [hier](/Online_Course_Materiaal) gevonden worden.
 
-###### [/Online Course Materiaal](/Online_Course_Materiaal)
+###### [Online Course Materiaal](/Online_Course_Materiaal)
 ---------------------------------------------------
 
 ## Presentaties
 
 #### Alle presentaties
 
-De uitleg voor alle presentaties kunnen [hier](/Presentatie) gevonden worden.
+De uitleg voor alle presentaties kunnen [hier](Presentatie) gevonden worden.
 
-| Week | Datum | Link |
-|------|-------|------|
-|Week 2|4 september 2017| [link](/Presentatie/Week_2/Week_1_Sprint_1.pdf)|
-|Week 9|3 november 2017| [link](/Presentatie/Week_9/Week_9-Presentatie.pdf)|
-|Week 10|10 november 2017| [link](/Presentatie/Week_10/Week_10-Presentatie.pdf)|
-|Week 15|11 december 2017| [link](/Presentatie/Week_15/Week_15-Presentatie.pdf)|
-|Week 16|18 december 2017| [link](/Presentatie/Week_16/Week_16-Presentatie.pdf)|
+| Week | Datum | Link | Uitleg|
+|------|-------|------|-------|
+|Week 2|4 september 2017| [Powerpoint](/Presentatie/Week_2/Week_1_Sprint_1.pdf)|[week 2](Presentatie#week-2)|
+|Week 9|3 november 2017| [Powerpoint](/Presentatie/Week_9/Week_9-Presentatie.pdf)|[week 9](Presentatie#week-9)|
+|Week 10|10 november 2017| [Powerpoint](/Presentatie/Week_10/Week_10-Presentatie.pdf)|[week 10](Presentatie#week-10)|
+|Week 15|11 december 2017| [Powerpoint](/Presentatie/Week_15/Week_15-Presentatie.pdf)|[week 15](Presentatie#week-15)|
+|Week 16|18 december 2017| [Powerpoint](/Presentatie/Week_16/Week_16-Presentatie.pdf)|[week 16](Presentatie#week-16)|
 
-###### [/presentatie](/Presentatie)
+###### [presentatie](/Presentatie)
 ----------------------------------------------------
 
 ## Scrum taken & tickets
  
-Alle door deze Issue met uitleg van wat ik hier gedaan heb kunnen *[hier]*(/Issue_urbinn) gevonden worden. 
+Alle door deze Issue met uitleg van wat ik hier gedaan heb kunnen *[hier](/Issue_urbinn)* gevonden worden. 
 
 
-| Issue nummer | Issue Discription | 
+| Issue nummer | Issue Discription|
 | -------------|--------------|
-| Issue 55 | Object detection papers lezen |
-| Issue 62 | aanpakken die objecten herkennen op basis van photometric differences in stereo images  |
+| Issue 55 | Object detection papers lezen| 
+| Issue 62 | aanpakken die objecten herkennen op basis van photometric differences in stereo images |
 | Issue 64 | Evaluatie implementatie: pointcloud vs pointcloud|
 | Issue 67 | Tiny Yolo dataset uitzoeken|
 | Issue 77 | Presentatie maken + blog updaten|
@@ -89,38 +91,22 @@ Alle door deze Issue met uitleg van wat ik hier gedaan heb kunnen *[hier]*(/Issu
 | Issue 154 | 3. Design|
 | Issue 155 | 4. Experiment|
 
-###### [/Issue_urbinn](/Issue_urbinn)
+###### [Issue_urbinn](/Issue_urbinn)
 -------------------------------------
 
 ## Workshop opdrachten
 
 ### Calling Bullshit opdrachten
 
-Voor Calling Bullshit heb ik deze opdracht ingeleverd na de workshop als eindopdracht: [link](/Workshop_opdrachten/Calling_Bullshit/Bullshit_opdracht.pdf)
+Calling Bullshit bewijsstukken: [bewijsstukken](Workshop_opdrachten/Calling_Bullshit/Bullshit_opdracht.pdf)
 
 ### Jupyter notebooks 
 
 Hier kunt u [Jupyter_ExploratoryData](Workshop_opdrachten/Jupyter_ExploratoryData) en [Spark](Workshop_opdrachten/Jupyternotebooks) opdrachten vinden die ik heb gemaakt in Juypterhub. 
 
-###### [/Workshop opdrachten](/Workshop_opdrachten)
------------------------------------------------------
+###### [Workshop opdrachten](Workshop_opdrachten)
 
-## Zelfstandige oefenprojecten
-
-|Project | Link |
-|--------|------|
-|Webscraper|[link](/Zelfstandige%20oefenprojecten/Webscrape)|
-
-.......
-
-
-
-
-
-
-###### [Zelfstandig oefenprojecten](/Zelfstandige%20oefenprojecten)
 ----------------------------------
-
 ## EM_Fields
 
 ### EM_Fields intro
@@ -135,5 +121,5 @@ Met deze [link](/EM-Fields) kunt u zien wat ik heb kunnen doen tijdens de opstar
 
 Overzicht van [EM_Fields](/EM-Fields) 
 
-###### [_/EM_Fields_](EM-Fields)
+###### [/EM_Fields](EM-Fields)
 -----------------------------------------------
