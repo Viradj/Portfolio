@@ -1,10 +1,8 @@
 # Issue_urbinn
 Binnen het project van Urbinn hebben we gebruik gemaakt van de tool Waffle. [Dit is een link naar de Waffle tool.](https://waffle.io/urbinn/urbinn)
 
-
-
 ## Issues
-Dit is een overzicht van alle Issues waar ik aan heb gewerkt met uitleg.
+Dit is een overzicht van alle belangrijke Issues waar ik aan heb gewerkt met uitleg.
 
 ### Issue 55: Object detection appers lezen
 Voor deze Issue heb een paar projectgenoten en ik object detectie papers gelezen. Dit was van belang om de juiste methode te vinden voor een goed object detection algoritme. 
@@ -106,23 +104,22 @@ Uiteindelijk is er gekozen voor de tweede opname van de derde route, deze had de
 ### Issue 142 Run URB over dataset delft #141
 Alle opnames de genomen waren van Delft hebben Isa en ik door URB gerunned en we kwamen er achter we veel ```pop from empty list``` errors. Dit betekende dat we geen keyframes konden aanmaken in het begin van de opnames. Het beste resultaat dat we uiteindelijk kregen was dat we 6 keyframes konden aanmaken. 
 
-Alle resultaten kunnen [hier](Issue_142/Issue_142.md) gevonden worden. 
+*Tijdens het opstellen van het portfolio heb ik nog een [oud notebook](urb/run_delft.ipynb) kunnen vinden waar een van deze expirmenten in stond.
+
+Alle resultaten kunnen [hier](Issue_142/Issue_142) gevonden worden. 
 
 ### Issue 146 Analyseren URB foute sequences Kitti
+De sequence van URB had ook problemen met de dataset van KITTI, ik heb samen met klasgenoten maar ook alleen dit proberen te vinden door aanpassingen te doen in de code en te zien of dit het resultaat kon veranderen. Helaas kon ik niet terug vinden waar het dit probleem uit voor kwam. 
 
 
+### Issue 152 1. Introduction &
+### Issue 153 2. Related Work &
+### Issue 154 3. Design &	
+### Issue 155 4. Experiment 
 
-### Issue 152
-
-
-
-### Issue 153
-
-
-
-### Issue 154
+Deze 4 tickets samen maken het opstellen van de paper die [hier](Portfolio-ADS/paper/landmark-filtering-techniques-for-semantic-mapping.pdf) gevonden kan worden. 
+Het merendeel van de voorlaatste twee weken van de minor gewerkt heb ik gewerkt aan het opstellen van deze paper. 
 
 
-
-https://drive.google.com/open?id=0BwqKb57nYbXvdWdqSU1VazVLMGc 
-Paper list.
+--------------------
+Alle papers waarnaar verwezen worden, behalve de paper die gemaakt is door de groep van Urbinn kunnen [hier](https://drive.google.com/open?id=0BwqKb57nYbXvdWdqSU1VazVLMGc) gevonden worden. Dit zijn bijvoorbeeld de gebruikte ORB-SLAM2 en SVO papers. 
