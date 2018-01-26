@@ -59,10 +59,8 @@ Omdat we nog geen GPU hadden om de SVO-files van de ZED-Camera om te zetten naar
 ### Issue 100 Opnamen slinger met kruisjes op grond	
 Om te testen of de door ons gemaakte software naugeuring genoeg was om te zien wat de de afstand is tussen de camera andere opjecten, hebben een groepsgenoot en ik opnames genomen in de Slinger. Het plan was in de eerste plaats om ruisjes op de grond te tekenen en deze na te meten met een liniaal. Daarna zou ons algorimte uitzoeken of de data met elkaar overeen komt. 
 
-
-
 ### Issue 104 Opnemen beeldmateriaal van ovaal en buiten	
-
+Om te testen of we onze eigendata set konden opnemen in delft, maar ook om enkele test opnames te nemen buiten de KITTI-dataset heb ik samen met verschillende groepsgenoten opnames genomen binnen en buiten het schoolgebouw. Deze opnames zijn later gebruik voor URB en ORB om te zien in hoe vere ze opjecten juist konden detecteren.
 
 
 ### Issue 114 Plan maken opnames Delft	
@@ -112,14 +110,11 @@ Alle resultaten kunnen [hier](Issue_142/Issue_142) gevonden worden.
 De sequence van URB had ook problemen met de dataset van KITTI, ik heb samen met klasgenoten maar ook alleen dit proberen te vinden door aanpassingen te doen in de code en te zien of dit het resultaat kon veranderen. Helaas kon ik niet terug vinden waar het dit probleem uit voor kwam. 
 
 
-### Issue 152 1. Introduction &
-### Issue 153 2. Related Work &
-### Issue 154 3. Design &	
-### Issue 155 4. Experiment 
+### Issue 152 1. Introduction | & Issue 153 2. Related Work | & Issue 154 3. Design & |	Issue 155 4. Experiment 
 
 Deze 4 tickets samen maken het opstellen van de paper die [hier](Portfolio-ADS/paper/landmark-filtering-techniques-for-semantic-mapping.pdf) gevonden kan worden. 
 Het merendeel van de voorlaatste twee weken van de minor gewerkt heb ik gewerkt aan het opstellen van deze paper. 
-
+Het eindresultaat hiervan kan: [hier](https://github.com/Viradj/Portfolio-ADS/blob/master/paper/landmark-filtering-techniques-for-semantic-mapping.pdf) gevonden worden.
 
 --------------------
 Alle papers waarnaar verwezen worden, behalve de paper die gemaakt is door de groep van Urbinn kunnen [hier](https://drive.google.com/open?id=0BwqKb57nYbXvdWdqSU1VazVLMGc) gevonden worden. Dit zijn bijvoorbeeld de gebruikte ORB-SLAM2 en SVO papers. 
