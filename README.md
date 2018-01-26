@@ -3,6 +3,9 @@
 **Naam:** Viradj Ramlochan Tewarie 
 **Studentnummer:** 14071088
 **Datum:** 26-01-2018
+
+Het project-team van Urbinn en ik hebben gezammelijk [deze paper](paper/landmark-filtering-techniques-for-semantic-mapping.pdf) geschreven.
+
 -------------------------------
 
 ### Table of Content
@@ -32,14 +35,14 @@ Voor de minor heb ik twee verschillende Online Courses gedaan, namelijk Datacamp
 
 Bewijstukken voor deze kunnen [hier](/Online_Course_Materiaal) gevonden worden.
 
-###### [_/Online Course Materiaal_](/Online_Course_Materiaal)
+###### [/Online Course Materiaal](/Online_Course_Materiaal)
 ---------------------------------------------------
 
 ## Presentaties
 
 #### Alle presentaties
 
-De uitleg voor alle presentaties kunnen [hier](/Presentatie) gevonden worden
+De uitleg voor alle presentaties kunnen [hier](/Presentatie) gevonden worden.
 
 | Week | Datum | Link |
 |------|-------|------|
@@ -49,12 +52,12 @@ De uitleg voor alle presentaties kunnen [hier](/Presentatie) gevonden worden
 |Week 15|11 december 2017| [link](/Presentatie/Week_15/Week_15-Presentatie.pdf)|
 |Week 16|18 december 2017| [link](/Presentatie/Week_16/Week_16-Presentatie.pdf)|
 
-###### [_/presentatie_](/Presentatie)
+###### [/presentatie](/Presentatie)
 ----------------------------------------------------
 
 ## Scrum taken & tickets
-
-Voor elk van deze Issue heb ik een uitleg geschreven die [hier](/Issue_urbinn) gevonden kan worden. 
+ 
+Alle door deze Issue met uitleg van wat ik hier gedaan heb kunnen *[hier]*(/Issue_urbinn) gevonden worden. 
 
 
 | Issue nummer | Issue Discription | 
@@ -86,10 +89,7 @@ Voor elk van deze Issue heb ik een uitleg geschreven die [hier](/Issue_urbinn) g
 | Issue 154 | 3. Design|
 | Issue 155 | 4. Experiment|
 
-Dit is een lijst van alle Issues waar ik volgens de github aan geassined was. Hierbuiten heb ik ook andere mensen gelopen en gewerkt aan onderdelen van het project aan geen Issue op github was aangemaakt. 
-
 ###### [/Issue_urbinn](/Issue_urbinn)
-
 -------------------------------------
 
 ## Workshop opdrachten
@@ -100,8 +100,7 @@ Voor Calling Bullshit heb ik deze opdracht ingeleverd na de workshop als eindopd
 
 ### Jupyter notebooks 
 
-Hier kunt u [Jupyter_ExploratoryData](Workshop_opdrachten/Jupyter_ExploratoryData) en [Spark](Workshop_opdrachten/Jupyternotebooks) opdrachten die gemaakt zijn in Juypterhub. 
-
+Hier kunt u [Jupyter_ExploratoryData](Workshop_opdrachten/Jupyter_ExploratoryData) en [Spark](Workshop_opdrachten/Jupyternotebooks) opdrachten vinden die ik heb gemaakt in Juypterhub. 
 
 ###### [/Workshop opdrachten](/Workshop_opdrachten)
 -----------------------------------------------------
