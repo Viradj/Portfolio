@@ -98,7 +98,7 @@ Alle door deze Issue met uitleg van wat ik hier gedaan heb kunnen *[hier](/Issue
 
 ### Calling Bullshit opdrachten
 
-Calling Bullshit bewijsstukken: [bewijsstukken](Workshop_opdrachten/Calling_Bullshit/Bullshit_opdracht.pdf)
+Calling Bullshit bewijsstukken: [bewijsstukken](Workshop_opdrachten/Calling_Bullshit/Bullshit_opdracht .pdf)
 
 ### Jupyter notebooks 
 
