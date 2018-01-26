@@ -98,7 +98,7 @@ Alle door deze Issue met uitleg van wat ik hier gedaan heb kunnen *[hier](/Issue
 
 ### Calling Bullshit opdrachten
 
-Calling Bullshit bewijsstukken: [bewijsstukken](Portfolio-ADS/Workshop_opdrachten/Calling_Bullshit/bullshit.pdf)
+Calling Bullshit bewijsstukken: [bewijsstukken](https://github.com/Viradj/Portfolio-ADS/blob/master/Workshop_opdrachten/Calling_Bullshit/bullshit.pdf)
 
 ### Jupyter notebooks 
 
