@@ -1,42 +1,38 @@
 # Issue_urbinn
-Binnen het project van Urbinn hebben we gebruik gemaakt van de tool Waffle. 
-Waffle maakt van elke niuewe taak een Issue die ook sub onderdelen kan hebben, de groote voor elke tickets staat niet vast. Zo kan het zijn dat een ticket 3 uur kost en een andere ticket 20 uur. Hieronder zal ik per Ticket uitleggen waar over het gaat en hoe ik er aan heb gewerkt. In dien deze er is dan zal ik ook een document toevoegen met het resultaat. 
+Binnen het project van Urbinn hebben we gebruik gemaakt van de tool Waffle. [Dit is een link naar de Waffle tool.](https://waffle.io/urbinn/urbinn)
+
 
 ## Issue
 Dit is een overzicht van alle Issues waar ik aan heb gewerkt met uitleg.
 
 ### Issue 55: Object detection appers lezen
-Voor deze Issue heb ik verschillende papers gelezen. Over Object detectie zoals:
-- ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras | Link 
-Deze paper gaat over hoe ORB-SLAM werkt.
-- ....
-
-TBD
+Voor deze Issue heb een paar projectgenoten en ik object detectie papers gelezen. Dit was van belang om de juiste methode te vinden voor een goed object detection algoritme. 
 
 
 ### Issue 62 aanpakken die objecten herkennen op basis van photometric differences in stereo images
 Voor deze Issue heb ik onderzoek gedaan naar de manier hoe afstand kan worden berekend door het vergelijken van twee opelkaar lopende foto's. Herbij heb ik gekeken naar het gebruik van verschillende CNN die vergelijkbare problemen aanpakken. In deze link kunnen mijn intere aantekening gevonden worden: [link](Issue_62/Issue_62-photometric_differences_in_stereo_images.pdf)
+
+
+### Issue 64 Evaluatie implementatie: pointcloud vs pointcloud
+
+Bij deze issue heb ik samen met Isa gekeken naar de mogelijkheid om de ZED opnames om te zetten naar een mesh die gebruikt kan worden om een pointcloud te generen. 
+
+![alt text](/Issue_64/3D_mesh_Slinger.png)
+
+Met de opnames die waren genomen van de 6de verdieping werd door een onderdeel van de ZED SDK, ZEDfu omzet naar een mesh en opj file. Deze twee files werden samen met in een andere tool omgezet die Cloudcompair heet en hieruit kwam de afbeelding hierboven. Maar helaas bleek het dat het niet accuraat genoeg was om te gebruiken voor de evaluatie van URB-SLAM. De bedoeling was namelijk om twee pointcloud over elkaar te leggen en te zien wat in hoevere URB juiste punten detecteerde.  
 
 ### Issue 67 Tiny Yolo dataset uitzoeken
 Voor het gebruik van Tiny Yolo moest er gebruik worden gemaakt van een dataset waarmee getraind kon worden op bepaalde opjecten. Hiervoor heb ik gezocht naar openbare databases waarvan gebruik kan worden gemaakt deze zijn: ImageNet, PASCAL VOC 2007 en 2012 en de CoCo Dataset. Ook heb ik gekeken hoe Yolo getraind kan worden en wat mogelijke risicio's kunnen zijn tijdens het trainen. Hieruit bleek dat een dataset zoals CoCo al hoewel veel opjecten gelabeld heeft een Noord-Amerikaanse dataset en sommige van deze opjecten niet in Nederland het zelde eruit zien. Zo zijn de verkeersboarden in Noord-Amerika groen.  De resultaten van dit onderzoek zijn te vinden in dit docuemnt: [link](Issue_67/Issue_67-Tiny_YOLO_datasets.pdf)
 
 ### Issue 77 Presentatie maken + blog updaten
 In week 9 en 10 hadden een projectgenoot en ik de taak om de precentatie te maken en de blog te updaten. 
-De presentatie kan [hier](...) en [hier](...) gevonden worden. Voor de blog kan [hier](https://kb74.github.io/urbinn/) gekeken worden onder Milestone 5.
+De presentatie kan [hier](/Presentatie/Week_9/Week_9-Presentatie.pdf) en [hier](/Presentatie/Week_10/Week_10-Presentatie.pdf) gevonden worden. Voor de blog kan [hier](https://kb74.github.io/urbinn/) gekeken worden onder Milestone 5.
 
 ### Issue 79 ORB coordinaten converteren
 Het doel van deze ticket was het omzetten van de floats naar meters in ORB-SLAM. Bij deze issue heb ik meegekeken met de de andere projectgenoten en zochten we naar een oplossing. 
 
-
 ### Issue 80 ORB output uitbreiden met keyframe coordinaten	
-Bij deze issue heb ik meegekeken met de de andere projectgenoten en zochten we naar een oplossing.
-
-
-```Op de slinger/KITTI dataset de gedetecteerde objecten proberen te herkennen. Verkennen welke algoritmes geschikt zijn voor het herkennen van objecten. Maak een split tussen een train/testset waarbij er niet wordt geleerd op de beelden die in de testset zitten. Bijvoorbeeld, leer op beelden van de 6e etage, test op beelden van de 5e etage.``` -- dit stuk van de milestone. 
-
-
-
-
+Bij deze issue heb ik meegekeken met de de andere projectgenoten en zochten we naar een oplossing. Om de ORB output te vergroten met keyframe coordinaten, omdat uit de toen verkrijgbare dat niet genoeg informatie kon worden gehaald. 
 
 
 ### Issue 81 Literatuur scan: filteren slam met object detectie	
@@ -45,10 +41,7 @@ Tijdens het literatuur ondezoek naar filteren van slam met object detectie zijn 
 1.  Object Detection and Tracking in RGB-D SLAM via Hierarchical Feature Grouping
 2. Monocular SLAM Supported Object Recognition.
 
-[hier](https://drive.google.com/open?id=0B_afORSfPeRYdUJGdzVmd1R3aDg)
-
-
-
+[hier](https://drive.google.com/drive/folders/0B_afORSfPeRYdUJGdzVmd1R3aDg?usp=sharing)
 
 ### Issue 82 yolo training data verzamelen
 
@@ -61,12 +54,20 @@ Voor het trainen van YOLO is besloten om de KITTI_dataset te herlabelen met de t
 
 ### Issue 94 Dieptebeeld genereren slinger	
 
+De ZED Camera is een Stereo camera waarmee we tijdens het project hebben geprobeerd beeldmateriaal te generreren voor onze algorimes. Met de camera kwam ook een SDK die de mogelijkheid had om diepte te berekenen, met deze SDK heb ik gewerkt en geexpirimenteerd. Het intere document: [link](/Issue_94/Issue%2094.pdf)
 
+![alt text](/Issue_94/Issue_94.png)
 
 ### Issue 99 LIACS gebruiken voor conversie	
 Omdat we nog geen GPU hadden om de SVO-files van de ZED-Camera om te zetten naar PNG-files voor YOLO en ORB. Hiervoor zouden gebruik maken van de Tesla GPU van de Server van Leiden. Maar dit ging niet door omdat we een paar dagen na het aanmaken van deze ticket een GPU kregen in de Server van HHS. 
 
 ### Issue 100 Opnamen slinger met kruisjes op grond	
+
+Om te testen of de door ons gemaakte software naugeuring genoeg was om te zien wat de de afstand is tussen de camera andere opjecten, hebben een groepsgenoot en ik opnames genomen in de Slinger. Het plan was in de eerste plaats om ruisjes op de grond te tekenen en deze na te meten met een liniaal. Daarna zou ons algorimte uitzoeken of de data met elkaar overeen komt. 
+
+We hebben deze taak tijdens de opnames aangepast. De opnames waren nu verdeeld in twee onderdelen, de eerste waarin we alleen een opname in het werklokaal namen van een doos op een tafel, omdat de groepsgenoten die bezig waren met het development van de software hier meer profeit van aan hadden. 
+
+Hierna hebben we opnames genomen van de gang en daarna een pointcloud gemaakt 
 
 
 
@@ -86,26 +87,27 @@ Omdat we nog geen GPU hadden om de SVO-files van de ZED-Camera om te zetten naar
 Link naar code 
 
 
-### Issue 135
+### Issue 135 Analyseren van Sequence 01 van de KITTI dataset
 
 
-### Issue 141
+### Issue 141 Selecteren best run delft
+Na de opnames in Delft was het van belang om een goede opname te nemen on te gebruiken voor de runs in URB-SLAM en YOLO. In totaal waren er 7 opnames genomen met versprijd over 3 uniuqe routes in delft. Elke opname was tussen de 12000 en 35000 afbeeldingen groot. Deze afbeeldingen heb ik eerst om gezet naar een video voormaat om rustig te analyseren met de ffmpeg libary. De code die hiervoor heb gebruikt kan hieronder gevonden worden. 
 
 `ffmpeg -framerate 60 -i left%03d.png -s:v 1280x720 -c:v libx264 \-profile:v high -crf 20 -pix_fmt yuv420p 01_route_01_opname_01.mp4`
 
 `ffmpeg -r 60 -s 1280x720 -i %06d.png -vcodec libx264 -crf 15 ../03_route_03_opname_03.mp4` 
 
+Uiteindelijk is er gekozen voor de tweede opname van de derde route, deze had de meeste verschillende opjecten en het miste regen/natte sneeuw. 
 
-
-### Issue 142
-
-
-
-### Issue 143
+### Issue 142 Run URB over dataset delft #141
 
 
 
-### Issue 146
+### Issue 143 Run YOLO over dataset delft #141 
+
+
+
+### Issue 146 Analyseren URB foute sequences Kitti
 
 
 

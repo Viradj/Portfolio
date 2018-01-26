@@ -1,21 +1,26 @@
 # Portfolio 
+
+**Naam:** Viradj Ramlochan Tewarie 
+**Studentnummer:** 14071088
+**Datum:** 26-01-2018
 -------------------------------
 
 ### Table of Content
 
-- Urbinn Project Intro
-- Online Course Materiaal
-- Presentaties
-- Scrum taken & Tickets
-- Workshop opdrachten
-- Zelfstandige oefenprojecten
-- EM_Fields
+- [Urbinn Project Intro](#urbinn-project-intro)
+- [Online Course Materiaal](#online-course-materiaal)
+- [Presentaties](#presentaties)
+- [Scrum taken & Tickets](#scrum-taken--tickets)
+- [Workshop opdrachten](#workshop-opdrachten)
+- [Zelfstandige oefenprojecten](#zelfstandige-oefenprojecten)
+- [EM_Fields](#em_fields)
 
 ------------------------------------------------
 
 ## Urbinn Project Intro
 
 De Betafactory, Accenda en het lectoraat Smart Sensor Systems zijn een jaar geleden project gestart om een duurzame zelfrijdende stadsauto te maken. Het doel van dit project wordt om camera beelden te gebruiken om vaste en bewegende obstakels te classificeren zodat deze informatie in een vervolgtraject kan worden gebruikt om het autonoom rijden te onderzoeken. (source: kb74 github pagina 5 okt 2017)
+http://urbinn.nl
 
 ![alt text](/Img/urbinn_kb74_foto.png "Urbinn_Car_Render_1")
 
@@ -25,21 +30,16 @@ De Betafactory, Accenda en het lectoraat Smart Sensor Systems zijn een jaar gele
 
 Voor de minor heb ik twee verschillende Online Courses gedaan, namelijk Datacamp en Coursera. 
 
-Voor mijn Datacamp course heb ik codeeropdrachten gedaan van kleine projecten van de basis van Python tot het leren van datascience libarys zoals numpy en pandas. 
+Bewijstukken voor deze kunnen [hier](/Online_Course_Materiaal) gevonden worden.
 
-De course ik heb gevold op Coursera is die curses van Andrew Ng, waarin hij de basis van machine learning uitleg. 
-
-Bewijstukken voor deze kunnen [hier](/Portfolio-ADS/Online_Course_Materiaal) gevonden worden.
-
-
-###### [_/Online Course Materiaal_](/Online%20Course%20Materiaal)
+###### [_/Online Course Materiaal_](/Online_Course_Materiaal)
 ---------------------------------------------------
 
 ## Presentaties
 
 #### Alle presentaties
 
-De uitleg voor alle presentaties kunnen [hier](/Presentaties) gevonden worden
+De uitleg voor alle presentaties kunnen [hier](/Presentatie) gevonden worden
 
 | Week | Datum | Link |
 |------|-------|------|
@@ -61,6 +61,7 @@ Voor elk van deze Issue heb ik een uitleg geschreven die [hier](/Issue_urbinn) g
 | -------------|--------------|
 | Issue 55 | Object detection papers lezen |
 | Issue 62 | aanpakken die objecten herkennen op basis van photometric differences in stereo images  |
+| Issue 64 | Evaluatie implementatie: pointcloud vs pointcloud|
 | Issue 67 | Tiny Yolo dataset uitzoeken|
 | Issue 77 | Presentatie maken + blog updaten|
 | Issue 79 | ORB coordinaten converteren |
@@ -106,8 +107,7 @@ Hier kunt u [Jupyter_ExploratoryData](Workshop_opdrachten/Jupyter_ExploratoryDat
 
 
 ###### [/Workshop opdrachten](/Workshop_opdrachten)
----------------------------------------------------------------------------------------------
-
+-----------------------------------------------------
 
 ## Zelfstandige oefenprojecten
 
@@ -115,6 +115,7 @@ Hier kunt u [Jupyter_ExploratoryData](Workshop_opdrachten/Jupyter_ExploratoryDat
 |--------|------|
 |Webscraper|[link](/Zelfstandige%20oefenprojecten/Webscrape)|
 
+.......
 
 
 
@@ -122,15 +123,16 @@ Hier kunt u [Jupyter_ExploratoryData](Workshop_opdrachten/Jupyter_ExploratoryDat
 
 
 ###### [Zelfstandig oefenprojecten](/Zelfstandige%20oefenprojecten)
-
-
 ----------------------------------
 
 ## EM_Fields
 
+### EM_Fields intro
 Sommige mensen klagen over gevoeligheid voor electromagnetische velden (bijvoorbeeld magnetron, zendmasten, Wifi). Om dit te onderzoeken hebben vrijwilligers in Utrecht sensoren gedragen om de bootstelling aan electromagnetische velden te meten. Het blijkt echter dat de metingen bijzonder storingsgevoelig zijn, bijvoorbeeld doordat het lichaam tussen zender en sensor zit. Doel van dit project is te onderzoeken hoe nauwkeuriger kan worden bepaald wat de werkelijke blootstelling aan electromagnetische velden is.
 (source: kb47 github pagina 5 oktober 2017)
 
+
+### EM_Fields einde na drie weken
 Aan het begin van mijn minor heb ik gekozen om voor het project EM_Fields, echter bleek het na 3 weken dat de begeleidende docent van dit project niet meer het project kon begeleidien. Helaas was dit project daarom gestop en ben ik overgestaped naar het project van Urbinn. 
 
 Met deze [link](/EM-Fields) kunt u zien wat ik heb kunnen doen tijdens de opstart van dit project.
@@ -139,12 +141,3 @@ Overzicht van [EM_Fields](/EM-Fields)
 
 ###### [_/EM_Fields_](EM-Fields)
 -----------------------------------------------
-
-
-
-
-
-
-
-
-
