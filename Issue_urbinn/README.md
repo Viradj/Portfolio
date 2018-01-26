@@ -3,7 +3,7 @@ Binnen het project van Urbinn hebben we gebruik gemaakt van de tool Waffle. [Dit
 
 
 
-## Issue
+## Issues
 Dit is een overzicht van alle Issues waar ik aan heb gewerkt met uitleg.
 
 ### Issue 55: Object detection appers lezen
@@ -18,7 +18,7 @@ Voor deze Issue heb ik onderzoek gedaan naar de manier hoe afstand kan worden be
 
 Bij deze issue heb ik samen met Isa gekeken naar de mogelijkheid om de ZED opnames om te zetten naar een mesh die gebruikt kan worden om een pointcloud te generen. 
 
-![alt text](/Issue_64/3D_mesh_Slinger.png)
+![alt text](Issue_64/3D_mesh_Slinger.png)
 
 Met de opnames die waren genomen van de 6de verdieping werd door een onderdeel van de ZED SDK, ZEDfu omzet naar een mesh en opj file. Deze twee files werden samen met in een andere tool omgezet die Cloudcompair heet en hieruit kwam de afbeelding hierboven. Maar helaas bleek het dat het niet accuraat genoeg was om te gebruiken voor de evaluatie van URB-SLAM. De bedoeling was namelijk om twee pointcloud over elkaar te leggen en te zien wat in hoevere URB juiste punten detecteerde.  
 
