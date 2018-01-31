@@ -17,7 +17,6 @@ Het project-team van Urbinn en ik hebben gezammelijk [deze paper](paper/landmark
 - [Presentaties](#presentaties)
 - [Scrum taken & Tickets](#scrum-taken--tickets)
 - [Workshop opdrachten](#workshop-opdrachten)
-- [Zelfstandige oefenprojecten](#zelfstandige-oefenprojecten)
 - [EM_Fields](#em_fields)
 
 ------------------------------------------------
@@ -33,26 +32,74 @@ De Betafactory, Accenda en het lectoraat Smart Sensor Systems zijn een jaar gele
 
 ## Online Course Materiaal
 
-Voor de minor heb ik twee verschillende Online Courses gedaan, namelijk Datacamp en Coursera. 
+|Naam|Resultaat|Link|
+|----|---------|--------|
+|DataCamp|Compleet|[link](#Datacamp)|
+|Coursera|compleet|[link](#Coursera)|
 
-Bewijstukken voor deze kunnen [hier](/Online_Course_Materiaal) gevonden worden.
+### Datacamp
+
+#### Uitleg
+| Status     | Uitleg
+|:------------:|:------------:|
+| Completed  | Opdracht afgerond binnen de gezette deadline
+| Late       |Opdracht afgerond maar buiten de gezette deadline
+| Missed    |Opdracht (nog) niet afgerond
+| In progress| bezig met de opdracht
+
+![alt text](Online_Course_Materiaal/OCM-Screenshots/DataCamp_14-10-2017_screenshot.PNG)
+
+### Coursera
+
+#### Week 1
+![alt text](Online_Course_Materiaal/COU-Screenshots/Coursera_week1.png)
+
+#### Week 2
+![alt text](Online_Course_Materiaal/COU-Screenshots/Coursera_week2.png)
+
+#### Week 3
+![alt text](Online_Course_Materiaal/COU-Screenshots/Coursera_week3.png)
+
+#### Week 6
+![alt text](Online_Course_Materiaal/COU-Screenshots/Coursera_week6.png)
 
 ###### [Online Course Materiaal](/Online_Course_Materiaal)
 ---------------------------------------------------
 
 ## Presentaties
 
-#### Alle presentaties
-
-De uitleg voor alle presentaties kunnen [hier](Presentatie) gevonden worden.
+### Alle presentaties
 
 | Week | Datum | Link | Uitleg|
 |------|-------|------|-------|
-|Week 2|4 september 2017| [Powerpoint](/Presentatie/Week_2/Week_1_Sprint_1.pdf)|[week 2](Presentatie#week-2)|
-|Week 9|3 november 2017| [Powerpoint](/Presentatie/Week_9/Week_9-Presentatie.pdf)|[week 9](Presentatie#week-9)|
-|Week 10|10 november 2017| [Powerpoint](/Presentatie/Week_10/Week_10-Presentatie.pdf)|[week 10](Presentatie#week-10)|
-|Week 15|11 december 2017| [Powerpoint](/Presentatie/Week_15/Week_15-Presentatie.pdf)|[week 15](Presentatie#week-15)|
-|Week 16|18 december 2017| [Powerpoint](/Presentatie/Week_16/Week_16-Presentatie.pdf)|[week 16](Presentatie#week-16)|
+|Week 2|4 september 2017| [Powerpoint](/Presentatie/Week_2/Week_1_Sprint_1.pdf)|[week 2](#Powerpoint_week_2)|
+|Week 9|3 november 2017| [Powerpoint](/Presentatie/Week_9/Week_9-Presentatie.pdf)|[week 9](#Powerpoint_week_9)|
+|Week 10|10 november 2017| [Powerpoint](/Presentatie/Week_10/Week_10-Presentatie.pdf)|[week 10](#Powerpoint_week_10)|
+|Week 15|11 december 2017| [Powerpoint](/Presentatie/Week_15/Week_15-Presentatie.pdf)|[week 15](#Powerpoint_week_15)|
+|Week 16|18 december 2017| [Powerpoint](/Presentatie/Week_16/Week_16-Presentatie.pdf)|[week 16](#Powerpoint_week_16)|
+
+## [Powerpoint_Week_2](/Week_2/Week_1_Sprint_1.pdf) 
+
+In de eerste sprint voor het project van EM-fields heb ik in week 2 een presentatie gehouden hierin besprak ik de vooruitgang van onze groep, rollenverdeling en doelen die we hadden uitgezet voor elk teamlid. 
+
+
+## [Powerpoint_Week_9](/Week_9/Week_9-Presentatie.pdf) 
+
+In week negen heb ik samen met een projectgenoot de presentatie gehouden over de vooruitgang in yolo, op dat moment was yolo vergenoeg getraind om 9 verschillende klasses te herkennen en had een recall van 50%. Daarnaast introduceerde we als groep in deze precentatie het idee om poindclouds (uit de ZED-Camera) te gebruiken voor orb evaluatie. 
+
+
+## [Powerpoint_Week_10](/Week_10/Week_10-Presentatie.pdf) 
+
+In week negen heb ik samen met een projectgenoot de precentatie gehouden over de tegenslagen in het project. Het is helaas naarvoren gekomen dat URB met nieuwe opnames van de ZED-Camera geen goede resulaten opleverde. In de presenatie hebben we ook laten zien hoe we de BBox-tool hebben gebruikt om foto's te labelen. De BBox-tool is een bestaand stuk software dat is aangepast door een groepsgenoot om zelf foto's te labelen. 
+
+
+## [Powerpoint_Week_15](/Week_15/Week_15-Presentatie.pdf) 
+
+In deze week vijftien werden de opnames die met de ZED-Camera genomen waren besproken en de koppeling die tussen URB en YOLO zou komen. Ook werden de vooruitgangen met de trjactory evaluation gepresenteerd. Voor YOLO hebben laten zien welke resulaten we kregen met de getrainde dataset van KITTI. 
+
+## [Powerpoint_Week_16](/Week_16/Week_16-Presentatie.pdf) 
+
+In week 16 hebben mijn projectgenoot en ik de problemen gepreseneerd die we kregen met YOLO en URb op de dataset van Delft die werd genomen met de ZED-Camera. Hierin kwam helaas naar voren dat de opnames de slecht belicht waren voor de twee algorites die wel prositive resulaten hadden met de goed belichte en beter opgenomen KITTI-dataset. 
 
 ###### [presentatie](/Presentatie)
 ----------------------------------------------------
@@ -95,6 +142,16 @@ Alle door deze Issue met uitleg van wat ik hier gedaan heb kunnen *[hier](/Issue
 -------------------------------------
 
 ## Workshop opdrachten
+
+|Naam|Uileg|Opgeleverde_documenten|
+|------|---------|------------------------|
+|Calling Bullshit|[link](#Calling Bullshit opdrachten)| [bewijsstukken](https://github.com/Viradj/Portfolio-ADS/blob/master/Workshop_opdrachten/Calling_Bullshit/bullshit.pdf)|
+|
+
+
+
+
+
 
 ### Calling Bullshit opdrachten
 
