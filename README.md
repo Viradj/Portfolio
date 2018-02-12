@@ -105,8 +105,6 @@ In week 16 hebben mijn projectgenoot en ik de problemen gepreseneerd die we kreg
 ----------------------------------------------------
 
 ## Scrum taken & tickets
-
-# Issue_urbinn
 Binnen het project van Urbinn hebben we gebruik gemaakt van de tool Waffle. [Dit is een link naar de Waffle tool.](https://waffle.io/urbinn/urbinn)
 
 ## Issues
@@ -124,12 +122,12 @@ Voor deze Issue heb ik onderzoek gedaan naar de manier hoe afstand kan worden be
 
 Bij deze issue heb ik samen met Isa gekeken naar de mogelijkheid om de ZED opnames om te zetten naar een mesh die gebruikt kan worden om een pointcloud te generen. 
 
-![alt text](Issue_64/3D_mesh_Slinger.png)
+![alt text](Issue_urbinn/Issue_64/3D_mesh_Slinger.png)
 
 Met de opnames die waren genomen van de 6de verdieping werd door een onderdeel van de ZED SDK, ZEDfu omzet naar een mesh en opj file. Deze twee files werden samen met in een andere tool omgezet die Cloudcompair heet en hieruit kwam de afbeelding hierboven. Maar helaas bleek het dat het niet accuraat genoeg was om te gebruiken voor de evaluatie van URB-SLAM. De bedoeling was namelijk om twee pointcloud over elkaar te leggen en te zien wat in hoevere URB juiste punten detecteerde.  
 
 ### Issue 67 Tiny Yolo dataset uitzoeken
-Voor het gebruik van Tiny Yolo moest er gebruik worden gemaakt van een dataset waarmee getraind kon worden op bepaalde opjecten. Hiervoor heb ik gezocht naar openbare databases waarvan gebruik kan worden gemaakt deze zijn: ImageNet, PASCAL VOC 2007 en 2012 en de CoCo Dataset. Ook heb ik gekeken hoe Yolo getraind kan worden en wat mogelijke risicio's kunnen zijn tijdens het trainen. Hieruit bleek dat een dataset zoals CoCo al hoewel veel opjecten gelabeld heeft een Noord-Amerikaanse dataset en sommige van deze opjecten niet in Nederland het zelde eruit zien. Zo zijn de verkeersboarden in Noord-Amerika groen.  De resultaten van dit onderzoek zijn te vinden in dit docuemnt: [link](Issue_67/Issue_67-Tiny_YOLO_datasets.pdf)
+Voor het gebruik van Tiny Yolo moest er gebruik worden gemaakt van een dataset waarmee getraind kon worden op bepaalde opjecten. Hiervoor heb ik gezocht naar openbare databases waarvan gebruik kan worden gemaakt deze zijn: ImageNet, PASCAL VOC 2007 en 2012 en de CoCo Dataset. Ook heb ik gekeken hoe Yolo getraind kan worden en wat mogelijke risicio's kunnen zijn tijdens het trainen. Hieruit bleek dat een dataset zoals CoCo al hoewel veel opjecten gelabeld heeft een Noord-Amerikaanse dataset en sommige van deze opjecten niet in Nederland het zelde eruit zien. Zo zijn de verkeersboarden in Noord-Amerika groen.  De resultaten van dit onderzoek zijn te vinden in dit docuemnt: [link](https://github.com/Viradj/Portfolio-ADS/blob/master/Issue_urbinn/Issue_67/Issue_67-Tiny_YOLO_datasets%20.pdf)
 
 ### Issue 77 Presentatie maken + blog updaten
 In week 9 en 10 hadden een projectgenoot en ik de taak om de precentatie te maken en de blog te updaten. 
@@ -157,7 +155,7 @@ Voor het trainen van YOLO is besloten om de KITTI_dataset te herlabelen met de t
 
 
 ### Issue 94 Dieptebeeld genereren slinger	
-De ZED Camera is een Stereo camera waarmee we tijdens het project hebben geprobeerd beeldmateriaal te generreren voor onze algorimes. Met de camera kwam ook een SDK die de mogelijkheid had om diepte te berekenen, met deze SDK heb ik gewerkt en geexpirimenteerd. Het intere document: [link](Issue_94/Issue%2094.pdf)
+De ZED Camera is een Stereo camera waarmee we tijdens het project hebben geprobeerd beeldmateriaal te generreren voor onze algorimes. Met de camera kwam ook een SDK die de mogelijkheid had om diepte te berekenen, met deze SDK heb ik gewerkt en geexpirimenteerd. Het intere document: [link](https://github.com/Viradj/Portfolio-ADS/blob/master/Issue_urbinn/Issue_94/Issue%2094.pdf)
 
 ![alt text](Issue_urbinn/Issue_94/Issue_94.png)
 
@@ -172,7 +170,7 @@ Om te testen of we onze eigendata set konden opnemen in delft, maar ook om enkel
 
 
 ### Issue 114 Plan maken opnames Delft	
-Ik heb samen met Bob een plan gemaakt waarin drie routes zijn beschreven waar we in Delft willen rijden. Dit document kan [hier](Issue_urbinn/Issue_114/Issue_114_ Plan_maken_openames_Delft) gevonden kan worden. 
+Ik heb samen met Bob een plan gemaakt waarin drie routes zijn beschreven waar we in Delft willen rijden. Dit document kan [hier](https://github.com/Viradj/Portfolio-ADS/blob/master/Issue_urbinn/Issue_114/Issue_114_%20Plan_maken_openames_Delft.pdf) gevonden kan worden. 
 
 
 ### Issue 120 RGB naar Hue (HSV) experiment	
@@ -220,7 +218,7 @@ De sequence van URB had ook problemen met de dataset van KITTI, ik heb samen met
 
 ### Issue 152 1. Introduction | & Issue 153 2. Related Work | & Issue 154 3. Design & |	Issue 155 4. Experiment 
 
-Deze 4 tickets samen maken het opstellen van de paper die [hier](Portfolio-ADS/paper/landmark-filtering-techniques-for-semantic-mapping.pdf) gevonden kan worden. 
+Deze 4 tickets samen maken het opstellen van de paper die [hier](https://github.com/Viradj/Portfolio-ADS/blob/master/paper/landmark-filtering-techniques-for-semantic-mapping.pdf) gevonden kan worden. 
 Het merendeel van de voorlaatste twee weken van de minor gewerkt heb ik gewerkt aan het opstellen van deze paper. 
 Het eindresultaat hiervan kan: [hier](https://github.com/Viradj/Portfolio-ADS/blob/master/paper/landmark-filtering-techniques-for-semantic-mapping.pdf) gevonden worden.
 
@@ -261,6 +259,27 @@ Sommige mensen klagen over gevoeligheid voor electromagnetische velden (bijvoorb
 
 ### EM_Fields einde na drie weken
 Aan het begin van mijn minor heb ik gekozen om voor het project EM_Fields, echter bleek het na 3 weken dat de begeleidende docent van dit project niet meer het project kon begeleidien. Helaas was dit project daarom gestop en ben ik overgestaped naar het project van Urbinn. 
+
+# EM-Fields
+
+Sommige mensen klagen over gevoeligheid voor electromagnetische velden (bijvoorbeeld magnetron, zendmasten, Wifi). Om dit te onderzoeken hebben vrijwilligers in Utrecht sensoren gedragen om de bootstelling aan electromagnetische velden te meten. Het blijkt echter dat de metingen bijzonder storingsgevoelig zijn, bijvoorbeeld doordat het lichaam tussen zender en sensor zit. Doel van dit project is te onderzoeken hoe nauwkeuriger kan worden bepaald wat de werkelijke blootstelling aan electromagnetische velden is.
+(source: kb47 github pagina 5 oktober 2017)
+
+Aan het begin van mijn minor heb ik gekozen om voor het project EM_Fields, echter bleek het na 3 weken dat de begeleidende docent van dit project niet meer het project kon begeleidien. Helaas was dit project daarom gestop en ben ik overgestaped naar het project van Urbinn. 
+
+De start van dit project was lastig omdat vanaf de eerste dag we bijna geen contact hadden met onze begeleider en als snel bleek dat we informatie te kort kwamen om te werken. Hieronder zijn de laatste paar documenten die ik nog terug heb kunnen vinden van deze drie weken. 
+
+Een presentielijst waarin werdt bijgehouden welke dagen iedereen er was en wanneer iemand gewoon niet kwam opdagen. [Precentie lijst Excel](https://github.com/Viradj/Portfolio-ADS/blob/master/EM-Fields/presentielijst%20lijst.xlsx)
+Deze hebben we helaas niet veel kunnen gebruiken omdat de dag na dat deze in werking werd genomen het project werd opgeheven. 
+
+In week twee heb ik samen met Borin Enthoven de Sprint precentatie voor week 2 gehouden. De focus van de precentatie lag bij het volgende:
+
+- Terugkoppeling van punten in precentatie 1
+- Voortgang van het onderzoek
+- Rol verdeling
+- Toekomst doelen
+
+Ook heb ik samen met mijn project groep onderzoek ons onderzoeks veld en zijn deze papers naar voren gekomen: [link](https://github.com/Viradj/Portfolio-ADS/tree/master/EM-Fields/Papers)
 
 Met deze [link](/EM-Fields) kunt u zien wat ik heb kunnen doen tijdens de opstart van dit project.
 
