@@ -210,9 +210,9 @@ Uiteindelijk is er gekozen voor de tweede opname van de derde route, deze had de
 ### Issue 142 Run URB over dataset delft #141
 Alle opnames de genomen waren van Delft hebben Isa en ik door URB gerunned en we kwamen er achter we veel ```pop from empty list``` errors. Dit betekende dat we geen keyframes konden aanmaken in het begin van de opnames. Het beste resultaat dat we uiteindelijk kregen was dat we 6 keyframes konden aanmaken. 
 
-*Tijdens het opstellen van het portfolio heb ik nog een [oud notebook](urb/run_delft.ipynb) kunnen vinden waar een van deze expirmenten in stond.
+*Tijdens het opstellen van het portfolio heb ik nog een [oud notebook](https://github.com/Viradj/Portfolio-ADS/tree/master/Issue_urbinn/urb) kunnen vinden waar een van deze expirmenten in stond.
 
-Alle resultaten kunnen [hier](Portfolio-ADS/Issue_urbinn/Issue_142/Issue_142) gevonden worden. 
+Alle resultaten kunnen [hier](https://github.com/Viradj/Portfolio-ADS/blob/master/Issue_urbinn/Issue_142/Issue_142) gevonden worden. 
 
 ### Issue 146 Analyseren URB foute sequences Kitti
 De sequence van URB had ook problemen met de dataset van KITTI, ik heb samen met klasgenoten maar ook alleen dit proberen te vinden door aanpassingen te doen in de code en te zien of dit het resultaat kon veranderen. Helaas kon ik niet terug vinden waar het dit probleem uit voor kwam. 
