@@ -225,7 +225,12 @@ Het eindresultaat hiervan kan: [hier](https://github.com/Viradj/Portfolio-ADS/bl
 --------------------
 Alle papers waarnaar verwezen worden, behalve de paper die gemaakt is door de groep van Urbinn kunnen [hier](https://drive.google.com/open?id=0BwqKb57nYbXvdWdqSU1VazVLMGc) gevonden worden. Dit zijn bijvoorbeeld de gebruikte ORB-SLAM2 en SVO papers. 
 
+-------------------
+In de afronding fase van de minor heb ik gewerk aan de aanpassingen van de verbeterde paper en heb ik samen met twee andere groepsgenoten de presentatie gemaakt voor de afsluiting van de minor. 
 
+De presenatie kan [hier](https://docs.google.com/presentation/d/12U2xTlj_Ci3VjQ9nlU5u55UBFupKQ4WsUhvO9Ob-q1g/edit?usp=sharing) gevonden worden.
+
+De verbeterde paper kan [hier](https://drive.google.com/open?id=1ark--Rm8F1DyOs8AFrjvF8ogkzBk7ye2)gevonden worden.
 
 
 ###### [Issue_urbinn](/Issue_urbinn)
